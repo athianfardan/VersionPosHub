@@ -1,0 +1,2286 @@
+.dashboard-agenpos93330-container {
+  min-height: 100vh;
+}
+.dashboard-agenpos93330-dashboard-agenpos93330 {
+  width: 1440px;
+  height: 1485px;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  max-width: 1440px;
+  align-self: stretch;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  background-color: rgba(241, 241, 241, 1);
+}
+.dashboard-agenpos93330-header93446 {
+  top: 100px;
+  left: 0px;
+  width: 1440px;
+  height: 300px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  box-sizing: border-box;
+  align-items: flex-start;
+  border-color: transparent;
+}
+.dashboard-agenpos93330-image {
+  top: 100px;
+  left: 1253px;
+  width: 100px;
+  height: 100px;
+  position: absolute;
+  object-fit: cover;
+  border-color: transparent;
+}
+.dashboard-agenpos93330-image01 {
+  top: 201px;
+  left: 311px;
+  width: 36px;
+  height: 36px;
+  position: absolute;
+  object-fit: cover;
+  border-color: transparent;
+}
+.dashboard-agenpos93330-image02 {
+  top: 70px;
+  left: 79px;
+  width: 160px;
+  height: 160px;
+  position: absolute;
+  object-fit: cover;
+  border-color: transparent;
+}
+.dashboard-agenpos93330-text {
+  top: 70px;
+  left: 311px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 48px;
+  align-self: auto;
+  font-style: normal;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 700px;
+  line-height: 28px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.dashboard-agenpos93330-text001 {
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  align-self: auto;
+  font-style: normal;
+  text-align: left;
+  font-weight: 700px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.dashboard-agenpos93330-image03 {
+  top: 141px;
+  left: 311px;
+  width: 36px;
+  height: 36px;
+  position: absolute;
+  object-fit: cover;
+  border-color: transparent;
+}
+.dashboard-agenpos93330-text002 {
+  top: 145px;
+  left: 383px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 24px;
+  align-self: auto;
+  font-style: normal;
+  text-align: center;
+  font-family: Montserrat;
+  font-weight: 700px;
+  line-height: 28px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.dashboard-agenpos93330-text003 {
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  align-self: auto;
+  font-style: normal;
+  text-align: center;
+  font-weight: 700px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.dashboard-agenpos93330-text004 {
+  top: 100px;
+  left: 1001px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 24px;
+  align-self: auto;
+  font-style: normal;
+  text-align: center;
+  font-family: Montserrat;
+  font-weight: 700px;
+  line-height: 28px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.dashboard-agenpos93330-text005 {
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  align-self: auto;
+  font-style: normal;
+  text-align: center;
+  font-weight: 700px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.dashboard-agenpos93330-text006 {
+  top: 205px;
+  left: 383px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 24px;
+  align-self: auto;
+  font-style: normal;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 700px;
+  line-height: 28px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.dashboard-agenpos93330-text007 {
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  align-self: auto;
+  font-style: normal;
+  text-align: left;
+  font-weight: 700px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.dashboard-agenpos93330-image04 {
+  top: 137px;
+  left: 1001px;
+  width: 32px;
+  height: 32px;
+  position: absolute;
+  object-fit: cover;
+  border-color: transparent;
+}
+.dashboard-agenpos93330-image05 {
+  top: 137px;
+  left: 1041px;
+  width: 32px;
+  height: 32px;
+  position: absolute;
+  object-fit: cover;
+  border-color: transparent;
+}
+.dashboard-agenpos93330-image06 {
+  top: 137px;
+  left: 1081px;
+  width: 32px;
+  height: 32px;
+  position: absolute;
+  object-fit: cover;
+  border-color: transparent;
+}
+.dashboard-agenpos93330-image07 {
+  top: 137px;
+  left: 1121px;
+  width: 32px;
+  height: 32px;
+  position: absolute;
+  object-fit: cover;
+  border-color: transparent;
+}
+.dashboard-agenpos93330-image08 {
+  top: 137px;
+  left: 1161px;
+  width: 32px;
+  height: 32px;
+  position: absolute;
+  object-fit: cover;
+  border-color: transparent;
+}
+.dashboard-agenpos93330-content93448 {
+  top: 400px;
+  left: 0px;
+  width: 1440px;
+  height: 420px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  box-sizing: border-box;
+  align-items: flex-start;
+  border-color: transparent;
+}
+.dashboard-agenpos93330-image09 {
+  top: 42px;
+  left: 51px;
+  width: 1338px;
+  height: 330px;
+  position: absolute;
+  object-fit: cover;
+  border-color: rgba(231, 119, 23, 1);
+  border-style: solid;
+  border-width: 5px;
+  border-radius: 10px;
+  background-color: rgba(255, 255, 255, 1);
+}
+.dashboard-agenpos93330-image10 {
+  top: 155px;
+  left: 984px;
+  width: 341px;
+  height: 44px;
+  position: absolute;
+  object-fit: cover;
+  border-color: transparent;
+  border-radius: 5px;
+  background-color: rgba(255, 255, 255, 1);
+}
+.dashboard-agenpos93330-group1109105482 {
+  top: 185px;
+  left: 80px;
+  width: 180px;
+  height: 120px;
+  display: flex;
+  position: absolute;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  background-color: rgba(196, 196, 196, 1);
+}
+.dashboard-agenpos93330-text008 {
+  top: 26px;
+  left: 27px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 24px;
+  align-self: auto;
+  font-style: normal;
+  text-align: center;
+  font-family: Montserrat;
+  font-weight: 700px;
+  line-height: 28px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.dashboard-agenpos93330-text009 {
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  align-self: auto;
+  font-style: normal;
+  text-align: center;
+  font-weight: 700px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.dashboard-agenpos93330-text010 {
+  top: 66px;
+  left: 27px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 18px;
+  align-self: auto;
+  font-style: normal;
+  text-align: center;
+  font-family: Montserrat;
+  font-weight: 700px;
+  line-height: 28px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.dashboard-agenpos93330-text011 {
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  align-self: auto;
+  font-style: normal;
+  text-align: center;
+  font-weight: 700px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.dashboard-agenpos93330-group1110105485 {
+  top: 185px;
+  left: 300px;
+  width: 180px;
+  height: 120px;
+  display: flex;
+  position: absolute;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  background-color: rgba(196, 196, 196, 1);
+}
+.dashboard-agenpos93330-text012 {
+  top: 26px;
+  left: 38px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 24px;
+  align-self: auto;
+  font-style: normal;
+  text-align: center;
+  font-family: Montserrat;
+  font-weight: 700px;
+  line-height: 28px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.dashboard-agenpos93330-text013 {
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  align-self: auto;
+  font-style: normal;
+  text-align: center;
+  font-weight: 700px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.dashboard-agenpos93330-text014 {
+  top: 66px;
+  left: 32px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 18px;
+  align-self: auto;
+  font-style: normal;
+  text-align: center;
+  font-family: Montserrat;
+  font-weight: 700px;
+  line-height: 28px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.dashboard-agenpos93330-text015 {
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  align-self: auto;
+  font-style: normal;
+  text-align: center;
+  font-weight: 700px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.dashboard-agenpos93330-group1111105489 {
+  top: 185px;
+  left: 520px;
+  width: 180px;
+  height: 120px;
+  display: flex;
+  position: absolute;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  background-color: rgba(196, 196, 196, 1);
+}
+.dashboard-agenpos93330-text016 {
+  top: 26px;
+  left: 38px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 24px;
+  align-self: auto;
+  font-style: normal;
+  text-align: center;
+  font-family: Montserrat;
+  font-weight: 700px;
+  line-height: 28px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.dashboard-agenpos93330-text017 {
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  align-self: auto;
+  font-style: normal;
+  text-align: center;
+  font-weight: 700px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.dashboard-agenpos93330-text018 {
+  top: 66px;
+  left: 27px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 18px;
+  align-self: auto;
+  font-style: normal;
+  text-align: center;
+  font-family: Montserrat;
+  font-weight: 700px;
+  line-height: 28px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.dashboard-agenpos93330-text019 {
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  align-self: auto;
+  font-style: normal;
+  text-align: center;
+  font-weight: 700px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.dashboard-agenpos93330-group1112105493 {
+  top: 185px;
+  left: 740px;
+  width: 180px;
+  height: 120px;
+  display: flex;
+  position: absolute;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  background-color: rgba(196, 196, 196, 1);
+}
+.dashboard-agenpos93330-text020 {
+  top: 26px;
+  left: 42px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 24px;
+  align-self: auto;
+  font-style: normal;
+  text-align: center;
+  font-family: Montserrat;
+  font-weight: 700px;
+  line-height: 28px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.dashboard-agenpos93330-text021 {
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  align-self: auto;
+  font-style: normal;
+  text-align: center;
+  font-weight: 700px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.dashboard-agenpos93330-text022 {
+  top: 66px;
+  left: 32px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 18px;
+  align-self: auto;
+  font-style: normal;
+  text-align: center;
+  font-family: Montserrat;
+  font-weight: 700px;
+  line-height: 28px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.dashboard-agenpos93330-text023 {
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  align-self: auto;
+  font-style: normal;
+  text-align: center;
+  font-weight: 700px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.dashboard-agenpos93330-progress100466 {
+  top: 155px;
+  left: 960px;
+  width: 303px;
+  height: 44px;
+  display: flex;
+  position: absolute;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  background-color: rgba(255, 255, 255, 1);
+}
+.dashboard-agenpos93330-image11 {
+  top: 5px;
+  left: 4.443359375px;
+  width: 187px;
+  height: 34px;
+  position: absolute;
+  object-fit: cover;
+  border-color: transparent;
+  background-color: rgba(196, 196, 196, 1);
+}
+.dashboard-agenpos93330-progress100467 {
+  top: 261px;
+  left: 960px;
+  width: 303px;
+  height: 44px;
+  display: flex;
+  position: absolute;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  background-color: rgba(255, 255, 255, 1);
+}
+.dashboard-agenpos93330-image12 {
+  top: 5px;
+  left: 4.443359375px;
+  width: 265px;
+  height: 34px;
+  position: absolute;
+  object-fit: cover;
+  border-color: transparent;
+  background-color: rgba(196, 196, 196, 1);
+}
+.dashboard-agenpos93330-text024 {
+  top: 163px;
+  left: 1284px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 24px;
+  align-self: auto;
+  font-style: normal;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 700px;
+  line-height: 28px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.dashboard-agenpos93330-text025 {
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  align-self: auto;
+  font-style: normal;
+  text-align: left;
+  font-weight: 700px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.dashboard-agenpos93330-text026 {
+  top: 269px;
+  left: 1284px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 24px;
+  align-self: auto;
+  font-style: normal;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 700px;
+  line-height: 28px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.dashboard-agenpos93330-text027 {
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  align-self: auto;
+  font-style: normal;
+  text-align: left;
+  font-weight: 700px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.dashboard-agenpos93330-text028 {
+  top: 225px;
+  left: 960px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 18px;
+  align-self: auto;
+  font-style: normal;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 700px;
+  line-height: 28px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.dashboard-agenpos93330-text029 {
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  align-self: auto;
+  font-style: normal;
+  text-align: left;
+  font-weight: 700px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.dashboard-agenpos93330-text030 {
+  top: 119px;
+  left: 960px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 18px;
+  align-self: auto;
+  font-style: normal;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 700px;
+  line-height: 28px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.dashboard-agenpos93330-text031 {
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  align-self: auto;
+  font-style: normal;
+  text-align: left;
+  font-weight: 700px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.dashboard-agenpos93330-text032 {
+  top: 115px;
+  left: 92px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 18px;
+  align-self: auto;
+  font-style: normal;
+  text-align: center;
+  font-family: Montserrat;
+  font-weight: 700px;
+  line-height: 28px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.dashboard-agenpos93330-text033 {
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  align-self: auto;
+  font-style: normal;
+  text-align: center;
+  font-weight: 700px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.dashboard-agenpos93330-text037 {
+  top: 115px;
+  left: 320px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 18px;
+  align-self: auto;
+  font-style: normal;
+  text-align: center;
+  font-family: Montserrat;
+  font-weight: 700px;
+  line-height: 28px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.dashboard-agenpos93330-text038 {
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  align-self: auto;
+  font-style: normal;
+  text-align: center;
+  font-weight: 700px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.dashboard-agenpos93330-text042 {
+  top: 115px;
+  left: 531px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 18px;
+  align-self: auto;
+  font-style: normal;
+  text-align: center;
+  font-family: Montserrat;
+  font-weight: 700px;
+  line-height: 28px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.dashboard-agenpos93330-text043 {
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  align-self: auto;
+  font-style: normal;
+  text-align: center;
+  font-weight: 700px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.dashboard-agenpos93330-text047 {
+  top: 115px;
+  left: 768px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 18px;
+  align-self: auto;
+  font-style: normal;
+  text-align: center;
+  font-family: Montserrat;
+  font-weight: 700px;
+  line-height: 28px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.dashboard-agenpos93330-text048 {
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  align-self: auto;
+  font-style: normal;
+  text-align: center;
+  font-weight: 700px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.dashboard-agenpos93330-text052 {
+  top: 840px;
+  left: 597px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 24px;
+  align-self: auto;
+  font-style: normal;
+  text-align: center;
+  font-family: Montserrat;
+  font-weight: 700px;
+  line-height: 28px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.dashboard-agenpos93330-text053 {
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  align-self: auto;
+  font-style: normal;
+  text-align: center;
+  font-weight: 700px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.dashboard-agenpos93330-group1113118374 {
+  top: 916px;
+  left: 146.5px;
+  width: 206px;
+  height: 40px;
+  display: flex;
+  position: absolute;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+}
+.dashboard-agenpos93330-basic118368 {
+  top: 0px;
+  left: 0px;
+  width: 74px;
+  display: flex;
+  padding: 8px 16px;
+  position: absolute;
+  box-sizing: border-box;
+  align-items: center;
+  flex-shrink: 1;
+  border-color: rgba(225, 225, 225, 1);
+  border-style: solid;
+  border-width: 1px;
+  border-radius: 4px 0 0 4px;
+  flex-direction: column;
+  justify-content: center;
+  background-color: var(--dl-color-default-blur94062);
+}
+.dashboard-agenpos93330-text057 {
+  color: var(--dl-color-neutral-6002a930);
+  height: auto;
+  font-size: 16px;
+  align-self: auto;
+  font-style: normal;
+  text-align: center;
+  font-family: Montserrat;
+  font-weight: 400px;
+  line-height: 24px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.dashboard-agenpos93330-text058 {
+  color: rgba(75, 75, 75, 1);
+  height: auto;
+  align-self: auto;
+  font-style: normal;
+  text-align: center;
+  font-weight: 400px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.dashboard-agenpos93330-basic118369 {
+  top: 0px;
+  left: 73.5px;
+  width: 67px;
+  display: flex;
+  padding: 8px 16px;
+  position: absolute;
+  box-sizing: border-box;
+  align-items: center;
+  flex-shrink: 1;
+  border-color: transparent;
+  flex-direction: column;
+  justify-content: center;
+  background-color: var(--dl-color-black&white-whited2c80);
+}
+.dashboard-agenpos93330-text059 {
+  color: var(--dl-color-neutral-6002a930);
+  height: auto;
+  font-size: 16px;
+  align-self: auto;
+  font-style: normal;
+  text-align: center;
+  font-family: Montserrat;
+  font-weight: 400px;
+  line-height: 24px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.dashboard-agenpos93330-text060 {
+  color: rgba(75, 75, 75, 1);
+  height: auto;
+  align-self: auto;
+  font-style: normal;
+  text-align: center;
+  font-weight: 400px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.dashboard-agenpos93330-basic118370 {
+  top: 0px;
+  left: 140.5px;
+  width: 65px;
+  display: flex;
+  padding: 8px 16px;
+  position: absolute;
+  box-sizing: border-box;
+  align-items: center;
+  flex-shrink: 1;
+  border-color: rgba(225, 225, 225, 1);
+  border-style: solid;
+  border-width: 1px;
+  border-radius: 0 4px 4px 0;
+  flex-direction: column;
+  justify-content: center;
+  background-color: var(--dl-color-black&white-whited2c80);
+}
+.dashboard-agenpos93330-text061 {
+  color: var(--dl-color-neutral-6002a930);
+  height: auto;
+  font-size: 16px;
+  align-self: auto;
+  font-style: normal;
+  text-align: center;
+  font-family: Montserrat;
+  font-weight: 400px;
+  line-height: 24px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.dashboard-agenpos93330-text062 {
+  color: rgba(75, 75, 75, 1);
+  height: auto;
+  align-self: auto;
+  font-style: normal;
+  text-align: center;
+  font-weight: 400px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.dashboard-agenpos93330-autolayouttablesortable118405 {
+  top: 1016px;
+  left: 147px;
+  width: 1147px;
+  display: flex;
+  padding: 1px;
+  position: absolute;
+  box-sizing: border-box;
+  align-items: flex-start;
+  border-color: transparent;
+  background-color: var(--dl-color-default-cellborderad2fc);
+}
+.dashboard-agenpos93330-columnfixed118406 {
+  width: 105px;
+  margin: 0 1px 0 0;
+  display: flex;
+  position: relative;
+  box-sizing: border-box;
+  align-items: flex-start;
+  border-color: transparent;
+  flex-direction: column;
+}
+.dashboard-agenpos93330-tablecellheader118407 {
+  margin: 0 0 1px 0;
+  display: flex;
+  padding: 8px;
+  position: relative;
+  align-self: stretch;
+  box-sizing: border-box;
+  align-items: center;
+  border-color: transparent;
+  background-color: var(--dl-color-default-cellheaderbackground54f36);
+}
+.dashboard-agenpos93330-text063 {
+  color: var(--dl-color-default-textcolor64509);
+  width: 69px;
+  height: auto;
+  margin: 0 4px 0 0;
+  flex-grow: 1;
+  align-self: auto;
+  text-align: left;
+  line-height: 150%;
+  text-decoration: none;
+}
+.dashboard-agenpos93330-text064 {
+  color: rgba(51, 51, 51, 1);
+  width: 69px;
+  height: auto;
+  flex-grow: 1;
+  align-self: auto;
+  font-style: normal;
+  text-align: left;
+  font-weight: 500px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.dashboard-agenpos93330-image13 {
+  width: 16px;
+  height: 16px;
+  position: relative;
+  object-fit: cover;
+  border-color: transparent;
+}
+.dashboard-agenpos93330-tablecell118408 {
+  margin: 0 0 1px 0;
+  display: flex;
+  padding: 8px;
+  position: relative;
+  align-self: stretch;
+  box-sizing: border-box;
+  align-items: flex-start;
+  border-color: transparent;
+  background-color: var(--dl-color-default-cellbackground49ee8);
+}
+.dashboard-agenpos93330-text065 {
+  color: var(--dl-color-default-textcolor64509);
+  width: 89px;
+  height: auto;
+  flex-grow: 1;
+  align-self: auto;
+  text-align: left;
+  line-height: 150%;
+  text-decoration: none;
+}
+.dashboard-agenpos93330-text066 {
+  color: rgba(51, 51, 51, 1);
+  width: 89px;
+  height: auto;
+  flex-grow: 1;
+  align-self: auto;
+  font-style: normal;
+  text-align: left;
+  font-weight: 400px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.dashboard-agenpos93330-tablecell118409 {
+  margin: 0 0 1px 0;
+  display: flex;
+  padding: 8px;
+  position: relative;
+  align-self: stretch;
+  box-sizing: border-box;
+  align-items: flex-start;
+  border-color: transparent;
+  background-color: var(--dl-color-default-cellbackground49ee8);
+}
+.dashboard-agenpos93330-text067 {
+  color: var(--dl-color-default-textcolor64509);
+  width: 89px;
+  height: auto;
+  flex-grow: 1;
+  align-self: auto;
+  text-align: left;
+  line-height: 150%;
+  text-decoration: none;
+}
+.dashboard-agenpos93330-text068 {
+  color: rgba(51, 51, 51, 1);
+  width: 89px;
+  height: auto;
+  flex-grow: 1;
+  align-self: auto;
+  font-style: normal;
+  text-align: left;
+  font-weight: 400px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.dashboard-agenpos93330-tablecell118410 {
+  margin: 0 0 1px 0;
+  display: flex;
+  padding: 8px;
+  position: relative;
+  align-self: stretch;
+  box-sizing: border-box;
+  align-items: flex-start;
+  border-color: transparent;
+  background-color: var(--dl-color-default-cellbackground49ee8);
+}
+.dashboard-agenpos93330-text069 {
+  color: var(--dl-color-default-textcolor64509);
+  width: 89px;
+  height: auto;
+  flex-grow: 1;
+  align-self: auto;
+  text-align: left;
+  line-height: 150%;
+  text-decoration: none;
+}
+.dashboard-agenpos93330-text070 {
+  color: rgba(51, 51, 51, 1);
+  width: 89px;
+  height: auto;
+  flex-grow: 1;
+  align-self: auto;
+  font-style: normal;
+  text-align: left;
+  font-weight: 400px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.dashboard-agenpos93330-tablecell118411 {
+  margin: 0 0 1px 0;
+  display: flex;
+  padding: 8px;
+  position: relative;
+  align-self: stretch;
+  box-sizing: border-box;
+  align-items: flex-start;
+  border-color: transparent;
+  background-color: var(--dl-color-default-cellbackground49ee8);
+}
+.dashboard-agenpos93330-text071 {
+  color: var(--dl-color-default-textcolor64509);
+  width: 89px;
+  height: auto;
+  flex-grow: 1;
+  align-self: auto;
+  text-align: left;
+  line-height: 150%;
+  text-decoration: none;
+}
+.dashboard-agenpos93330-text072 {
+  color: rgba(51, 51, 51, 1);
+  width: 89px;
+  height: auto;
+  flex-grow: 1;
+  align-self: auto;
+  font-style: normal;
+  text-align: left;
+  font-weight: 400px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.dashboard-agenpos93330-tablecell118412 {
+  margin: 0 0 1px 0;
+  display: flex;
+  padding: 8px;
+  position: relative;
+  align-self: stretch;
+  box-sizing: border-box;
+  align-items: flex-start;
+  border-color: transparent;
+  background-color: var(--dl-color-default-cellbackground49ee8);
+}
+.dashboard-agenpos93330-text073 {
+  color: var(--dl-color-default-textcolor64509);
+  width: 89px;
+  height: auto;
+  flex-grow: 1;
+  align-self: auto;
+  text-align: left;
+  line-height: 150%;
+  text-decoration: none;
+}
+.dashboard-agenpos93330-text074 {
+  color: rgba(51, 51, 51, 1);
+  width: 89px;
+  height: auto;
+  flex-grow: 1;
+  align-self: auto;
+  font-style: normal;
+  text-align: left;
+  font-weight: 400px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.dashboard-agenpos93330-tablecell118413 {
+  display: flex;
+  padding: 8px;
+  position: relative;
+  align-self: stretch;
+  box-sizing: border-box;
+  align-items: flex-start;
+  border-color: transparent;
+  background-color: var(--dl-color-default-cellbackground49ee8);
+}
+.dashboard-agenpos93330-text075 {
+  color: var(--dl-color-default-textcolor64509);
+  width: 89px;
+  height: auto;
+  flex-grow: 1;
+  align-self: auto;
+  text-align: left;
+  line-height: 150%;
+  text-decoration: none;
+}
+.dashboard-agenpos93330-text076 {
+  color: rgba(51, 51, 51, 1);
+  width: 89px;
+  height: auto;
+  flex-grow: 1;
+  align-self: auto;
+  font-style: normal;
+  text-align: left;
+  font-weight: 400px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.dashboard-agenpos93330-columnfixed118414 {
+  width: 252px;
+  margin: 0 1px 0 0;
+  display: flex;
+  position: relative;
+  box-sizing: border-box;
+  align-items: flex-start;
+  border-color: transparent;
+  flex-direction: column;
+  background-color: var(--dl-color-default-cellborderad2fc);
+}
+.dashboard-agenpos93330-tablecellheader118415 {
+  margin: 0 0 1px 0;
+  display: flex;
+  padding: 8px;
+  position: relative;
+  align-self: stretch;
+  box-sizing: border-box;
+  align-items: center;
+  border-color: transparent;
+  background-color: var(--dl-color-default-cellheaderbackground54f36);
+}
+.dashboard-agenpos93330-text077 {
+  color: var(--dl-color-default-textcolor64509);
+  width: 216px;
+  height: auto;
+  margin: 0 4px 0 0;
+  flex-grow: 1;
+  align-self: auto;
+  text-align: left;
+  line-height: 150%;
+  text-decoration: none;
+}
+.dashboard-agenpos93330-text078 {
+  color: rgba(51, 51, 51, 1);
+  width: 216px;
+  height: auto;
+  flex-grow: 1;
+  align-self: auto;
+  font-style: normal;
+  text-align: left;
+  font-weight: 500px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.dashboard-agenpos93330-image14 {
+  width: 16px;
+  height: 16px;
+  position: relative;
+  object-fit: cover;
+  border-color: transparent;
+}
+.dashboard-agenpos93330-tablecell118416 {
+  margin: 0 0 1px 0;
+  display: flex;
+  padding: 8px;
+  position: relative;
+  align-self: stretch;
+  box-sizing: border-box;
+  align-items: flex-start;
+  border-color: transparent;
+  background-color: var(--dl-color-default-cellbackground49ee8);
+}
+.dashboard-agenpos93330-text079 {
+  color: var(--dl-color-default-textcolor64509);
+  width: 236px;
+  height: auto;
+  flex-grow: 1;
+  align-self: auto;
+  text-align: left;
+  line-height: 150%;
+  text-decoration: none;
+}
+.dashboard-agenpos93330-text080 {
+  color: rgba(51, 51, 51, 1);
+  width: 236px;
+  height: auto;
+  flex-grow: 1;
+  align-self: auto;
+  font-style: normal;
+  text-align: left;
+  font-weight: 400px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.dashboard-agenpos93330-tablecell118417 {
+  margin: 0 0 1px 0;
+  display: flex;
+  padding: 8px;
+  position: relative;
+  align-self: stretch;
+  box-sizing: border-box;
+  align-items: flex-start;
+  border-color: transparent;
+  background-color: var(--dl-color-default-cellbackground49ee8);
+}
+.dashboard-agenpos93330-text081 {
+  color: var(--dl-color-default-textcolor64509);
+  width: 236px;
+  height: auto;
+  flex-grow: 1;
+  align-self: auto;
+  text-align: left;
+  line-height: 150%;
+  text-decoration: none;
+}
+.dashboard-agenpos93330-text082 {
+  color: rgba(51, 51, 51, 1);
+  width: 236px;
+  height: auto;
+  flex-grow: 1;
+  align-self: auto;
+  font-style: normal;
+  text-align: left;
+  font-weight: 400px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.dashboard-agenpos93330-tablecell118418 {
+  margin: 0 0 1px 0;
+  display: flex;
+  padding: 8px;
+  position: relative;
+  align-self: stretch;
+  box-sizing: border-box;
+  align-items: flex-start;
+  border-color: transparent;
+  background-color: var(--dl-color-default-cellbackground49ee8);
+}
+.dashboard-agenpos93330-text083 {
+  color: var(--dl-color-default-textcolor64509);
+  width: 236px;
+  height: auto;
+  flex-grow: 1;
+  align-self: auto;
+  text-align: left;
+  line-height: 150%;
+  text-decoration: none;
+}
+.dashboard-agenpos93330-text084 {
+  color: rgba(51, 51, 51, 1);
+  width: 236px;
+  height: auto;
+  flex-grow: 1;
+  align-self: auto;
+  font-style: normal;
+  text-align: left;
+  font-weight: 400px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.dashboard-agenpos93330-tablecell118419 {
+  margin: 0 0 1px 0;
+  display: flex;
+  padding: 8px;
+  position: relative;
+  align-self: stretch;
+  box-sizing: border-box;
+  align-items: flex-start;
+  border-color: transparent;
+  background-color: var(--dl-color-default-cellbackground49ee8);
+}
+.dashboard-agenpos93330-text085 {
+  color: var(--dl-color-default-textcolor64509);
+  width: 236px;
+  height: auto;
+  flex-grow: 1;
+  align-self: auto;
+  text-align: left;
+  line-height: 150%;
+  text-decoration: none;
+}
+.dashboard-agenpos93330-text086 {
+  color: rgba(51, 51, 51, 1);
+  width: 236px;
+  height: auto;
+  flex-grow: 1;
+  align-self: auto;
+  font-style: normal;
+  text-align: left;
+  font-weight: 400px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.dashboard-agenpos93330-tablecell118420 {
+  margin: 0 0 1px 0;
+  display: flex;
+  padding: 8px;
+  position: relative;
+  align-self: stretch;
+  box-sizing: border-box;
+  align-items: flex-start;
+  border-color: transparent;
+  background-color: var(--dl-color-default-cellbackground49ee8);
+}
+.dashboard-agenpos93330-text087 {
+  color: var(--dl-color-default-textcolor64509);
+  width: 236px;
+  height: auto;
+  flex-grow: 1;
+  align-self: auto;
+  text-align: left;
+  line-height: 150%;
+  text-decoration: none;
+}
+.dashboard-agenpos93330-text088 {
+  color: rgba(51, 51, 51, 1);
+  width: 236px;
+  height: auto;
+  flex-grow: 1;
+  align-self: auto;
+  font-style: normal;
+  text-align: left;
+  font-weight: 400px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.dashboard-agenpos93330-tablecell118421 {
+  display: flex;
+  padding: 8px;
+  position: relative;
+  align-self: stretch;
+  box-sizing: border-box;
+  align-items: flex-start;
+  border-color: transparent;
+  background-color: var(--dl-color-default-cellbackground49ee8);
+}
+.dashboard-agenpos93330-text089 {
+  color: var(--dl-color-default-textcolor64509);
+  width: 236px;
+  height: auto;
+  flex-grow: 1;
+  align-self: auto;
+  text-align: left;
+  line-height: 150%;
+  text-decoration: none;
+}
+.dashboard-agenpos93330-text090 {
+  color: rgba(51, 51, 51, 1);
+  width: 236px;
+  height: auto;
+  flex-grow: 1;
+  align-self: auto;
+  font-style: normal;
+  text-align: left;
+  font-weight: 400px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.dashboard-agenpos93330-columnfill118422 {
+  width: 256px;
+  margin: 0 1px 0 0;
+  display: flex;
+  position: relative;
+  box-sizing: border-box;
+  align-items: flex-start;
+  border-color: transparent;
+  flex-direction: column;
+  background-color: var(--dl-color-default-cellborderad2fc);
+}
+.dashboard-agenpos93330-tablecellheader118423 {
+  width: 256px;
+  margin: 0 0 1px 0;
+  display: flex;
+  padding: 8px;
+  position: relative;
+  box-sizing: border-box;
+  align-items: center;
+  border-color: transparent;
+  background-color: var(--dl-color-default-cellheaderbackground54f36);
+}
+.dashboard-agenpos93330-text091 {
+  color: var(--dl-color-default-textcolor64509);
+  width: 220px;
+  height: auto;
+  margin: 0 4px 0 0;
+  flex-grow: 1;
+  align-self: auto;
+  text-align: left;
+  line-height: 150%;
+  text-decoration: none;
+}
+.dashboard-agenpos93330-text092 {
+  color: rgba(51, 51, 51, 1);
+  width: 220px;
+  height: auto;
+  flex-grow: 1;
+  align-self: auto;
+  font-style: normal;
+  text-align: left;
+  font-weight: 500px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.dashboard-agenpos93330-image15 {
+  width: 16px;
+  height: 16px;
+  position: relative;
+  object-fit: cover;
+  border-color: transparent;
+}
+.dashboard-agenpos93330-tablecell118424 {
+  margin: 0 0 1px 0;
+  display: flex;
+  padding: 8px;
+  position: relative;
+  align-self: stretch;
+  box-sizing: border-box;
+  align-items: flex-start;
+  border-color: transparent;
+  background-color: var(--dl-color-default-cellbackground49ee8);
+}
+.dashboard-agenpos93330-text093 {
+  color: var(--dl-color-default-textcolor64509);
+  width: 240px;
+  height: auto;
+  flex-grow: 1;
+  align-self: auto;
+  text-align: left;
+  line-height: 150%;
+  text-decoration: none;
+}
+.dashboard-agenpos93330-text094 {
+  color: rgba(51, 51, 51, 1);
+  width: 240px;
+  height: auto;
+  flex-grow: 1;
+  align-self: auto;
+  font-style: normal;
+  text-align: left;
+  font-weight: 400px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.dashboard-agenpos93330-tablecell118425 {
+  margin: 0 0 1px 0;
+  display: flex;
+  padding: 8px;
+  position: relative;
+  align-self: stretch;
+  box-sizing: border-box;
+  align-items: flex-start;
+  border-color: transparent;
+  background-color: var(--dl-color-default-cellbackground49ee8);
+}
+.dashboard-agenpos93330-text095 {
+  color: var(--dl-color-default-textcolor64509);
+  width: 240px;
+  height: auto;
+  flex-grow: 1;
+  align-self: auto;
+  text-align: left;
+  line-height: 150%;
+  text-decoration: none;
+}
+.dashboard-agenpos93330-text096 {
+  color: rgba(51, 51, 51, 1);
+  width: 240px;
+  height: auto;
+  flex-grow: 1;
+  align-self: auto;
+  font-style: normal;
+  text-align: left;
+  font-weight: 400px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.dashboard-agenpos93330-tablecell118426 {
+  margin: 0 0 1px 0;
+  display: flex;
+  padding: 8px;
+  position: relative;
+  align-self: stretch;
+  box-sizing: border-box;
+  align-items: flex-start;
+  border-color: transparent;
+  background-color: var(--dl-color-default-cellbackground49ee8);
+}
+.dashboard-agenpos93330-text097 {
+  color: var(--dl-color-default-textcolor64509);
+  width: 240px;
+  height: auto;
+  flex-grow: 1;
+  align-self: auto;
+  text-align: left;
+  line-height: 150%;
+  text-decoration: none;
+}
+.dashboard-agenpos93330-text098 {
+  color: rgba(51, 51, 51, 1);
+  width: 240px;
+  height: auto;
+  flex-grow: 1;
+  align-self: auto;
+  font-style: normal;
+  text-align: left;
+  font-weight: 400px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.dashboard-agenpos93330-tablecell118427 {
+  margin: 0 0 1px 0;
+  display: flex;
+  padding: 8px;
+  position: relative;
+  align-self: stretch;
+  box-sizing: border-box;
+  align-items: flex-start;
+  border-color: transparent;
+  background-color: var(--dl-color-default-cellbackground49ee8);
+}
+.dashboard-agenpos93330-text099 {
+  color: var(--dl-color-default-textcolor64509);
+  width: 240px;
+  height: auto;
+  flex-grow: 1;
+  align-self: auto;
+  text-align: left;
+  line-height: 150%;
+  text-decoration: none;
+}
+.dashboard-agenpos93330-text100 {
+  color: rgba(51, 51, 51, 1);
+  width: 240px;
+  height: auto;
+  flex-grow: 1;
+  align-self: auto;
+  font-style: normal;
+  text-align: left;
+  font-weight: 400px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.dashboard-agenpos93330-tablecell118428 {
+  margin: 0 0 1px 0;
+  display: flex;
+  padding: 8px;
+  position: relative;
+  align-self: stretch;
+  box-sizing: border-box;
+  align-items: flex-start;
+  border-color: transparent;
+  background-color: var(--dl-color-default-cellbackground49ee8);
+}
+.dashboard-agenpos93330-text101 {
+  color: var(--dl-color-default-textcolor64509);
+  width: 240px;
+  height: auto;
+  flex-grow: 1;
+  align-self: auto;
+  text-align: left;
+  line-height: 150%;
+  text-decoration: none;
+}
+.dashboard-agenpos93330-text102 {
+  color: rgba(51, 51, 51, 1);
+  width: 240px;
+  height: auto;
+  flex-grow: 1;
+  align-self: auto;
+  font-style: normal;
+  text-align: left;
+  font-weight: 400px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.dashboard-agenpos93330-tablecell118429 {
+  display: flex;
+  padding: 8px;
+  position: relative;
+  align-self: stretch;
+  box-sizing: border-box;
+  align-items: flex-start;
+  border-color: transparent;
+  background-color: var(--dl-color-default-cellbackground49ee8);
+}
+.dashboard-agenpos93330-text103 {
+  color: var(--dl-color-default-textcolor64509);
+  width: 240px;
+  height: auto;
+  flex-grow: 1;
+  align-self: auto;
+  text-align: left;
+  line-height: 150%;
+  text-decoration: none;
+}
+.dashboard-agenpos93330-text104 {
+  color: rgba(51, 51, 51, 1);
+  width: 240px;
+  height: auto;
+  flex-grow: 1;
+  align-self: auto;
+  font-style: normal;
+  text-align: left;
+  font-weight: 400px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.dashboard-agenpos93330-columnfill118556 {
+  width: 220px;
+  margin: 0 1px 0 0;
+  display: flex;
+  position: relative;
+  box-sizing: border-box;
+  align-items: flex-start;
+  border-color: transparent;
+  flex-direction: column;
+  background-color: var(--dl-color-default-cellborderad2fc);
+}
+.dashboard-agenpos93330-tablecellheader118557 {
+  width: 220px;
+  margin: 0 0 1px 0;
+  display: flex;
+  padding: 8px;
+  position: relative;
+  box-sizing: border-box;
+  align-items: center;
+  border-color: transparent;
+  background-color: var(--dl-color-default-cellheaderbackground54f36);
+}
+.dashboard-agenpos93330-text105 {
+  color: var(--dl-color-default-textcolor64509);
+  width: 184px;
+  height: auto;
+  margin: 0 4px 0 0;
+  flex-grow: 1;
+  align-self: auto;
+  text-align: left;
+  line-height: 150%;
+  text-decoration: none;
+}
+.dashboard-agenpos93330-text106 {
+  color: rgba(51, 51, 51, 1);
+  width: 184px;
+  height: auto;
+  flex-grow: 1;
+  align-self: auto;
+  font-style: normal;
+  text-align: left;
+  font-weight: 500px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.dashboard-agenpos93330-image16 {
+  width: 16px;
+  height: 16px;
+  position: relative;
+  object-fit: cover;
+  border-color: transparent;
+}
+.dashboard-agenpos93330-tablecell118558 {
+  margin: 0 0 1px 0;
+  display: flex;
+  padding: 8px;
+  position: relative;
+  align-self: stretch;
+  box-sizing: border-box;
+  align-items: flex-start;
+  border-color: transparent;
+  background-color: var(--dl-color-default-cellbackground49ee8);
+}
+.dashboard-agenpos93330-text107 {
+  color: var(--dl-color-default-textcolor64509);
+  width: 204px;
+  height: auto;
+  flex-grow: 1;
+  align-self: auto;
+  text-align: left;
+  line-height: 150%;
+  text-decoration: none;
+}
+.dashboard-agenpos93330-text108 {
+  color: rgba(51, 51, 51, 1);
+  width: 204px;
+  height: auto;
+  flex-grow: 1;
+  align-self: auto;
+  font-style: normal;
+  text-align: left;
+  font-weight: 400px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.dashboard-agenpos93330-tablecell118559 {
+  margin: 0 0 1px 0;
+  display: flex;
+  padding: 8px;
+  position: relative;
+  align-self: stretch;
+  box-sizing: border-box;
+  align-items: flex-start;
+  border-color: transparent;
+  background-color: var(--dl-color-default-cellbackground49ee8);
+}
+.dashboard-agenpos93330-text109 {
+  color: var(--dl-color-default-textcolor64509);
+  width: 204px;
+  height: auto;
+  flex-grow: 1;
+  align-self: auto;
+  text-align: left;
+  line-height: 150%;
+  text-decoration: none;
+}
+.dashboard-agenpos93330-text110 {
+  color: rgba(51, 51, 51, 1);
+  width: 204px;
+  height: auto;
+  flex-grow: 1;
+  align-self: auto;
+  font-style: normal;
+  text-align: left;
+  font-weight: 400px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.dashboard-agenpos93330-tablecell118560 {
+  margin: 0 0 1px 0;
+  display: flex;
+  padding: 8px;
+  position: relative;
+  align-self: stretch;
+  box-sizing: border-box;
+  align-items: flex-start;
+  border-color: transparent;
+  background-color: var(--dl-color-default-cellbackground49ee8);
+}
+.dashboard-agenpos93330-text111 {
+  color: var(--dl-color-default-textcolor64509);
+  width: 204px;
+  height: auto;
+  flex-grow: 1;
+  align-self: auto;
+  text-align: left;
+  line-height: 150%;
+  text-decoration: none;
+}
+.dashboard-agenpos93330-text112 {
+  color: rgba(51, 51, 51, 1);
+  width: 204px;
+  height: auto;
+  flex-grow: 1;
+  align-self: auto;
+  font-style: normal;
+  text-align: left;
+  font-weight: 400px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.dashboard-agenpos93330-tablecell118561 {
+  margin: 0 0 1px 0;
+  display: flex;
+  padding: 8px;
+  position: relative;
+  align-self: stretch;
+  box-sizing: border-box;
+  align-items: flex-start;
+  border-color: transparent;
+  background-color: var(--dl-color-default-cellbackground49ee8);
+}
+.dashboard-agenpos93330-text113 {
+  color: var(--dl-color-default-textcolor64509);
+  width: 204px;
+  height: auto;
+  flex-grow: 1;
+  align-self: auto;
+  text-align: left;
+  line-height: 150%;
+  text-decoration: none;
+}
+.dashboard-agenpos93330-text114 {
+  color: rgba(51, 51, 51, 1);
+  width: 204px;
+  height: auto;
+  flex-grow: 1;
+  align-self: auto;
+  font-style: normal;
+  text-align: left;
+  font-weight: 400px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.dashboard-agenpos93330-tablecell118562 {
+  margin: 0 0 1px 0;
+  display: flex;
+  padding: 8px;
+  position: relative;
+  align-self: stretch;
+  box-sizing: border-box;
+  align-items: flex-start;
+  border-color: transparent;
+  background-color: var(--dl-color-default-cellbackground49ee8);
+}
+.dashboard-agenpos93330-text115 {
+  color: var(--dl-color-default-textcolor64509);
+  width: 204px;
+  height: auto;
+  flex-grow: 1;
+  align-self: auto;
+  text-align: left;
+  line-height: 150%;
+  text-decoration: none;
+}
+.dashboard-agenpos93330-text116 {
+  color: rgba(51, 51, 51, 1);
+  width: 204px;
+  height: auto;
+  flex-grow: 1;
+  align-self: auto;
+  font-style: normal;
+  text-align: left;
+  font-weight: 400px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.dashboard-agenpos93330-tablecell118563 {
+  display: flex;
+  padding: 8px;
+  position: relative;
+  align-self: stretch;
+  box-sizing: border-box;
+  align-items: flex-start;
+  border-color: transparent;
+  background-color: var(--dl-color-default-cellbackground49ee8);
+}
+.dashboard-agenpos93330-text117 {
+  color: var(--dl-color-default-textcolor64509);
+  width: 204px;
+  height: auto;
+  flex-grow: 1;
+  align-self: auto;
+  text-align: left;
+  line-height: 150%;
+  text-decoration: none;
+}
+.dashboard-agenpos93330-text118 {
+  color: rgba(51, 51, 51, 1);
+  width: 204px;
+  height: auto;
+  flex-grow: 1;
+  align-self: auto;
+  font-style: normal;
+  text-align: left;
+  font-weight: 400px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.dashboard-agenpos93330-columnfill118574 {
+  width: 308px;
+  display: flex;
+  position: relative;
+  box-sizing: border-box;
+  align-items: flex-start;
+  border-color: transparent;
+  flex-direction: column;
+  background-color: var(--dl-color-default-cellborderad2fc);
+}
+.dashboard-agenpos93330-tablecellheader118575 {
+  width: 308px;
+  margin: 0 0 1px 0;
+  display: flex;
+  padding: 8px;
+  position: relative;
+  box-sizing: border-box;
+  align-items: center;
+  border-color: transparent;
+  background-color: var(--dl-color-default-cellheaderbackground54f36);
+}
+.dashboard-agenpos93330-text119 {
+  color: var(--dl-color-default-textcolor64509);
+  width: 272px;
+  height: auto;
+  margin: 0 4px 0 0;
+  flex-grow: 1;
+  align-self: auto;
+  text-align: left;
+  line-height: 150%;
+  text-decoration: none;
+}
+.dashboard-agenpos93330-text120 {
+  color: rgba(51, 51, 51, 1);
+  width: 272px;
+  height: auto;
+  flex-grow: 1;
+  align-self: auto;
+  font-style: normal;
+  text-align: left;
+  font-weight: 500px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.dashboard-agenpos93330-image17 {
+  width: 16px;
+  height: 16px;
+  position: relative;
+  object-fit: cover;
+  border-color: transparent;
+}
+.dashboard-agenpos93330-tablecell118576 {
+  margin: 0 0 1px 0;
+  display: flex;
+  padding: 8px;
+  position: relative;
+  align-self: stretch;
+  box-sizing: border-box;
+  align-items: flex-start;
+  border-color: transparent;
+  background-color: var(--dl-color-default-cellbackground49ee8);
+}
+.dashboard-agenpos93330-text121 {
+  color: var(--dl-color-default-textcolor64509);
+  width: 292px;
+  height: auto;
+  flex-grow: 1;
+  align-self: auto;
+  text-align: right;
+  line-height: 150%;
+  text-decoration: none;
+}
+.dashboard-agenpos93330-text122 {
+  color: rgba(51, 51, 51, 1);
+  width: 292px;
+  height: auto;
+  flex-grow: 1;
+  align-self: auto;
+  font-style: normal;
+  text-align: right;
+  font-weight: 400px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.dashboard-agenpos93330-tablecell118577 {
+  margin: 0 0 1px 0;
+  display: flex;
+  padding: 8px;
+  position: relative;
+  align-self: stretch;
+  box-sizing: border-box;
+  align-items: flex-start;
+  border-color: transparent;
+  background-color: var(--dl-color-default-cellbackground49ee8);
+}
+.dashboard-agenpos93330-text123 {
+  color: var(--dl-color-default-textcolor64509);
+  width: 292px;
+  height: auto;
+  flex-grow: 1;
+  align-self: auto;
+  text-align: right;
+  line-height: 150%;
+  text-decoration: none;
+}
+.dashboard-agenpos93330-text124 {
+  color: rgba(51, 51, 51, 1);
+  width: 292px;
+  height: auto;
+  flex-grow: 1;
+  align-self: auto;
+  font-style: normal;
+  text-align: right;
+  font-weight: 400px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.dashboard-agenpos93330-tablecell118578 {
+  margin: 0 0 1px 0;
+  display: flex;
+  padding: 8px;
+  position: relative;
+  align-self: stretch;
+  box-sizing: border-box;
+  align-items: flex-start;
+  border-color: transparent;
+  background-color: var(--dl-color-default-cellbackground49ee8);
+}
+.dashboard-agenpos93330-text125 {
+  color: var(--dl-color-default-textcolor64509);
+  width: 292px;
+  height: auto;
+  flex-grow: 1;
+  align-self: auto;
+  text-align: right;
+  line-height: 150%;
+  text-decoration: none;
+}
+.dashboard-agenpos93330-text126 {
+  color: rgba(51, 51, 51, 1);
+  width: 292px;
+  height: auto;
+  flex-grow: 1;
+  align-self: auto;
+  font-style: normal;
+  text-align: right;
+  font-weight: 400px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.dashboard-agenpos93330-tablecell118579 {
+  margin: 0 0 1px 0;
+  display: flex;
+  padding: 8px;
+  position: relative;
+  align-self: stretch;
+  box-sizing: border-box;
+  align-items: flex-start;
+  border-color: transparent;
+  background-color: var(--dl-color-default-cellbackground49ee8);
+}
+.dashboard-agenpos93330-text127 {
+  color: var(--dl-color-default-textcolor64509);
+  width: 292px;
+  height: auto;
+  flex-grow: 1;
+  align-self: auto;
+  text-align: right;
+  line-height: 150%;
+  text-decoration: none;
+}
+.dashboard-agenpos93330-text128 {
+  color: rgba(51, 51, 51, 1);
+  width: 292px;
+  height: auto;
+  flex-grow: 1;
+  align-self: auto;
+  font-style: normal;
+  text-align: right;
+  font-weight: 400px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.dashboard-agenpos93330-tablecell118580 {
+  margin: 0 0 1px 0;
+  display: flex;
+  padding: 8px;
+  position: relative;
+  align-self: stretch;
+  box-sizing: border-box;
+  align-items: flex-start;
+  border-color: transparent;
+  background-color: var(--dl-color-default-cellbackground49ee8);
+}
+.dashboard-agenpos93330-text129 {
+  color: var(--dl-color-default-textcolor64509);
+  width: 292px;
+  height: auto;
+  flex-grow: 1;
+  align-self: auto;
+  text-align: right;
+  line-height: 150%;
+  text-decoration: none;
+}
+.dashboard-agenpos93330-text130 {
+  color: rgba(51, 51, 51, 1);
+  width: 292px;
+  height: auto;
+  flex-grow: 1;
+  align-self: auto;
+  font-style: normal;
+  text-align: right;
+  font-weight: 400px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.dashboard-agenpos93330-tablecell118581 {
+  display: flex;
+  padding: 8px;
+  position: relative;
+  align-self: stretch;
+  box-sizing: border-box;
+  align-items: flex-start;
+  border-color: transparent;
+  background-color: var(--dl-color-default-cellbackground49ee8);
+}
+.dashboard-agenpos93330-text131 {
+  color: var(--dl-color-default-textcolor64509);
+  width: 292px;
+  height: auto;
+  flex-grow: 1;
+  align-self: auto;
+  text-align: right;
+  line-height: 150%;
+  text-decoration: none;
+}
+.dashboard-agenpos93330-text132 {
+  color: rgba(51, 51, 51, 1);
+  width: 292px;
+  height: auto;
+  flex-grow: 1;
+  align-self: auto;
+  font-style: normal;
+  text-align: right;
+  font-weight: 400px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.dashboard-agenpos93330-lefticonbutton123596 {
+  top: 1364px;
+  left: 639px;
+  width: 163px;
+  height: 60px;
+  display: flex;
+  padding: 16px 30px;
+  overflow: hidden;
+  position: absolute;
+  box-sizing: border-box;
+  align-items: center;
+  border-color: transparent;
+  border-radius: 10px;
+  flex-direction: row;
+  background-color: var(--dl-color-default-primary02878);
+}
+.dashboard-agenpos93330-text133 {
+  top: 15px;
+  left: 48px;
+  color: var(--dl-color-default-lighttext82584);
+  height: auto;
+  margin: auto;
+  position: absolute;
+  align-self: auto;
+  text-align: left;
+  line-height: 28px;
+  text-decoration: none;
+}
+.dashboard-agenpos93330-text134 {
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  align-self: auto;
+  font-style: normal;
+  text-align: left;
+  font-weight: 700px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.dashboard-agenpos93330-frame43123617 {
+  top: 0px;
+  left: 0px;
+  width: 1440px;
+  height: 88px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  box-sizing: border-box;
+  align-items: flex-start;
+  border-color: transparent;
+  background-color: var(--dl-color-default-maincoloref23c);
+}
+.dashboard-agenpos93330-svg {
+  top: 88px;
+  left: 1px;
+  width: 1439;
+  height: 0;
+  position: absolute;
+}
+.dashboard-agenpos93330-home-logo123619 {
+  top: 10px;
+  left: 55px;
+  width: 185px;
+  height: 67px;
+  display: flex;
+  position: absolute;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+}
+.dashboard-agenpos93330-image18 {
+  top: 0px;
+  left: 0px;
+  width: 67px;
+  height: 67px;
+  position: absolute;
+  object-fit: cover;
+  border-color: transparent;
+}
+.dashboard-agenpos93330-text135 {
+  top: 0px;
+  left: 77px;
+  color: rgba(255, 255, 255, 1);
+  width: 108px;
+  height: auto;
+  position: absolute;
+  font-size: 48px;
+  align-self: auto;
+  box-shadow: 10px 10px 5px 0px rgba(0, 0, 0, 0.25) ;
+  font-style: normal;
+  text-align: left;
+  font-family: MuseoModerno;
+  font-weight: 400px;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.dashboard-agenpos93330-text136 {
+  color: rgba(255, 255, 255, 1);
+  width: 108px;
+  height: auto;
+  align-self: auto;
+  box-shadow: 10px 10px 5px 0px rgba(0, 0, 0, 0.25) ;
+  font-style: normal;
+  text-align: left;
+  font-weight: 400px;
+  font-stretch: normal;
+  text-decoration: none;
+}

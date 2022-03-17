@@ -1,0 +1,1741 @@
+.form-daftar-agen-pos-badan-usaha51381-container {
+  min-height: 100vh;
+}
+.form-daftar-agen-pos-badan-usaha51381-form-daftar-agen-pos-badan-usaha51381 {
+  width: 1440px;
+  height: 1704px;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  max-width: 1440px;
+  align-self: stretch;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  background-color: rgba(241, 241, 241, 1);
+}
+.form-daftar-agen-pos-badan-usaha51381-formstyle451382 {
+  top: 7px;
+  left: 248px;
+  width: 944px;
+  height: 1697px;
+  display: flex;
+  padding: 50px;
+  overflow: hidden;
+  position: absolute;
+  box-sizing: border-box;
+  align-items: flex-start;
+  border-color: transparent;
+  border-radius: 6px;
+}
+.form-daftar-agen-pos-badan-usaha51381-text {
+  top: 44.5980224609375px;
+  left: 372px;
+  color: var(--dl-color-default-primary02878);
+  width: 200px;
+  height: auto;
+  position: absolute;
+  align-self: auto;
+  text-align: left;
+  line-height: 36px;
+  text-decoration: none;
+}
+.form-daftar-agen-pos-badan-usaha51381-text01 {
+  color: rgba(231, 119, 23, 1);
+  width: 200px;
+  height: auto;
+  align-self: auto;
+  font-style: normal;
+  text-align: left;
+  font-weight: 700px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.form-daftar-agen-pos-badan-usaha51381-form-field51384 {
+  top: 114px;
+  left: 28px;
+  width: 243px;
+  height: 94.52734375px;
+  display: flex;
+  position: absolute;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+}
+.form-daftar-agen-pos-badan-usaha51381-input51385 {
+  top: 36.52734375px;
+  width: 243px;
+  height: 58px;
+  display: flex;
+  padding: 19px 25px;
+  overflow: hidden;
+  position: absolute;
+  font-size: 15px;
+  box-sizing: border-box;
+  text-align: left;
+  align-items: flex-start;
+  font-family: Roboto;
+  font-weight: 500;
+  border-color: rgba(231, 119, 23, 1);
+  border-style: solid;
+  border-width: 2px;
+  border-radius: 10px;
+  background-color: rgba(255, 255, 255, 1);
+}
+.form-daftar-agen-pos-badan-usaha51381-text02 {
+  top: 0px;
+  left: 1.6201171875px;
+  color: var(--dl-color-default-text70d26);
+  width: 131px;
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  align-self: auto;
+  font-style: normal;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 700px;
+  line-height: 28px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.form-daftar-agen-pos-badan-usaha51381-text03 {
+  color: rgba(37, 43, 66, 1);
+  width: 131px;
+  height: auto;
+  align-self: auto;
+  font-style: normal;
+  text-align: left;
+  font-weight: 700px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.form-daftar-agen-pos-badan-usaha51381-form-field51388 {
+  top: 114px;
+  left: 351px;
+  width: 243px;
+  height: 94.52734375px;
+  display: flex;
+  position: absolute;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+}
+.form-daftar-agen-pos-badan-usaha51381-input51389 {
+  top: 36.52734375px;
+  width: 243px;
+  height: 58px;
+  display: flex;
+  padding: 19px 25px;
+  overflow: hidden;
+  position: absolute;
+  font-size: 15px;
+  box-sizing: border-box;
+  text-align: left;
+  align-items: flex-start;
+  font-family: Roboto;
+  font-weight: 500;
+  border-color: rgba(231, 119, 23, 1);
+  border-style: solid;
+  border-width: 2px;
+  border-radius: 10px;
+  background-color: rgba(255, 255, 255, 1);
+}
+.form-daftar-agen-pos-badan-usaha51381-text04 {
+  top: 0px;
+  left: 1.6201171875px;
+  color: var(--dl-color-default-text70d26);
+  width: 120px;
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  align-self: auto;
+  font-style: normal;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 700px;
+  line-height: 28px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.form-daftar-agen-pos-badan-usaha51381-text05 {
+  color: rgba(37, 43, 66, 1);
+  width: 120px;
+  height: auto;
+  align-self: auto;
+  font-style: normal;
+  text-align: left;
+  font-weight: 700px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.form-daftar-agen-pos-badan-usaha51381-form-field51392 {
+  top: 114px;
+  left: 674px;
+  width: 243px;
+  height: 94.52734375px;
+  display: flex;
+  position: absolute;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+}
+.form-daftar-agen-pos-badan-usaha51381-input51393 {
+  top: 36.52734375px;
+  width: 243px;
+  height: 58px;
+  display: flex;
+  padding: 19px 25px;
+  overflow: hidden;
+  position: absolute;
+  font-size: 15px;
+  box-sizing: border-box;
+  text-align: left;
+  align-items: flex-start;
+  font-family: Roboto;
+  font-weight: 500;
+  border-color: rgba(231, 119, 23, 1);
+  border-style: solid;
+  border-width: 2px;
+  border-radius: 10px;
+  background-color: rgba(255, 255, 255, 1);
+}
+.form-daftar-agen-pos-badan-usaha51381-text06 {
+  top: 0px;
+  left: 1.6201171875px;
+  color: var(--dl-color-default-text70d26);
+  width: 54px;
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  align-self: auto;
+  font-style: normal;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 700px;
+  line-height: 28px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.form-daftar-agen-pos-badan-usaha51381-text07 {
+  color: rgba(37, 43, 66, 1);
+  width: 54px;
+  height: auto;
+  align-self: auto;
+  font-style: normal;
+  text-align: left;
+  font-weight: 700px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.form-daftar-agen-pos-badan-usaha51381-form-field51396 {
+  top: 335.52734375px;
+  left: 674px;
+  width: 243px;
+  height: 94.52734375px;
+  display: flex;
+  position: absolute;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+}
+.form-daftar-agen-pos-badan-usaha51381-input51397 {
+  top: 36.52734375px;
+  width: 243px;
+  height: 58px;
+  display: flex;
+  padding: 19px 25px;
+  overflow: hidden;
+  position: absolute;
+  font-size: 15px;
+  box-sizing: border-box;
+  text-align: left;
+  align-items: flex-start;
+  font-family: Roboto;
+  font-weight: 500;
+  border-color: rgba(231, 119, 23, 1);
+  border-style: solid;
+  border-width: 2px;
+  border-radius: 10px;
+  background-color: rgba(255, 255, 255, 1);
+}
+.form-daftar-agen-pos-badan-usaha51381-text08 {
+  top: 0px;
+  left: 1.6201171875px;
+  color: var(--dl-color-default-text70d26);
+  width: 80px;
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  align-self: auto;
+  font-style: normal;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 700px;
+  line-height: 28px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.form-daftar-agen-pos-badan-usaha51381-text09 {
+  color: rgba(37, 43, 66, 1);
+  width: 80px;
+  height: auto;
+  align-self: auto;
+  font-style: normal;
+  text-align: left;
+  font-weight: 700px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.form-daftar-agen-pos-badan-usaha51381-group108851400 {
+  top: 224.52734375px;
+  left: 28px;
+  width: 243px;
+  height: 95px;
+  display: flex;
+  position: absolute;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+}
+.form-daftar-agen-pos-badan-usaha51381-dropdown51401 {
+  top: 37px;
+  left: 0px;
+  width: 243px;
+  height: 58px;
+  display: flex;
+  padding: 19px 25px;
+  overflow: hidden;
+  position: absolute;
+  box-sizing: border-box;
+  align-items: flex-start;
+  border-color: rgba(231, 119, 23, 1);
+  border-style: solid;
+  border-width: 2px;
+  border-radius: 10px;
+  background-color: rgba(255, 255, 255, 1);
+}
+.form-daftar-agen-pos-badan-usaha51381-text10 {
+  top: 21px;
+  left: 25px;
+  color: var(--dl-color-default-text70d26);
+  height: auto;
+  position: absolute;
+  font-size: 15px;
+  align-self: auto;
+  font-style: normal;
+  text-align: left;
+  font-family: Roboto;
+  font-weight: 500px;
+  line-height: 16px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.form-daftar-agen-pos-badan-usaha51381-text11 {
+  color: rgba(37, 43, 66, 1);
+  height: auto;
+  align-self: auto;
+  font-style: normal;
+  text-align: left;
+  font-weight: 500px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.form-daftar-agen-pos-badan-usaha51381-svg {
+  top: 25px;
+  left: 226.8000030517578px;
+  width: 8;
+  height: 11;
+  position: absolute;
+}
+.form-daftar-agen-pos-badan-usaha51381-text12 {
+  top: 0px;
+  left: 2px;
+  color: var(--dl-color-default-text70d26);
+  width: 94px;
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  align-self: auto;
+  font-style: normal;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 700px;
+  line-height: 28px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.form-daftar-agen-pos-badan-usaha51381-text13 {
+  color: rgba(37, 43, 66, 1);
+  width: 94px;
+  height: auto;
+  align-self: auto;
+  font-style: normal;
+  text-align: left;
+  font-weight: 700px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.form-daftar-agen-pos-badan-usaha51381-group108951403 {
+  top: 224.52734375px;
+  left: 351px;
+  width: 243px;
+  height: 95px;
+  display: flex;
+  position: absolute;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+}
+.form-daftar-agen-pos-badan-usaha51381-dropdown51404 {
+  top: 37px;
+  left: 0px;
+  width: 243px;
+  height: 58px;
+  display: flex;
+  padding: 19px 25px;
+  overflow: hidden;
+  position: absolute;
+  box-sizing: border-box;
+  align-items: flex-start;
+  border-color: rgba(231, 119, 23, 1);
+  border-style: solid;
+  border-width: 2px;
+  border-radius: 10px;
+  background-color: rgba(255, 255, 255, 1);
+}
+.form-daftar-agen-pos-badan-usaha51381-text14 {
+  top: 21px;
+  left: 25px;
+  color: var(--dl-color-default-text70d26);
+  height: auto;
+  position: absolute;
+  font-size: 15px;
+  align-self: auto;
+  font-style: normal;
+  text-align: left;
+  font-family: Roboto;
+  font-weight: 500px;
+  line-height: 16px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.form-daftar-agen-pos-badan-usaha51381-text15 {
+  color: rgba(37, 43, 66, 1);
+  height: auto;
+  align-self: auto;
+  font-style: normal;
+  text-align: left;
+  font-weight: 500px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.form-daftar-agen-pos-badan-usaha51381-svg1 {
+  top: 25px;
+  left: 226.8000030517578px;
+  width: 8;
+  height: 11;
+  position: absolute;
+}
+.form-daftar-agen-pos-badan-usaha51381-text16 {
+  top: 0px;
+  left: 2px;
+  color: var(--dl-color-default-text70d26);
+  width: 69px;
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  align-self: auto;
+  font-style: normal;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 700px;
+  line-height: 28px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.form-daftar-agen-pos-badan-usaha51381-text17 {
+  color: rgba(37, 43, 66, 1);
+  width: 69px;
+  height: auto;
+  align-self: auto;
+  font-style: normal;
+  text-align: left;
+  font-weight: 700px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.form-daftar-agen-pos-badan-usaha51381-group109151406 {
+  top: 335.52734375px;
+  left: 28px;
+  width: 243px;
+  height: 95px;
+  display: flex;
+  position: absolute;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+}
+.form-daftar-agen-pos-badan-usaha51381-dropdown51407 {
+  top: 37px;
+  left: 0px;
+  width: 243px;
+  height: 58px;
+  display: flex;
+  padding: 19px 25px;
+  overflow: hidden;
+  position: absolute;
+  box-sizing: border-box;
+  align-items: flex-start;
+  border-color: rgba(231, 119, 23, 1);
+  border-style: solid;
+  border-width: 2px;
+  border-radius: 10px;
+  background-color: rgba(255, 255, 255, 1);
+}
+.form-daftar-agen-pos-badan-usaha51381-text18 {
+  top: 21px;
+  left: 25px;
+  color: var(--dl-color-default-text70d26);
+  height: auto;
+  position: absolute;
+  font-size: 15px;
+  align-self: auto;
+  font-style: normal;
+  text-align: left;
+  font-family: Roboto;
+  font-weight: 500px;
+  line-height: 16px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.form-daftar-agen-pos-badan-usaha51381-text19 {
+  color: rgba(37, 43, 66, 1);
+  height: auto;
+  align-self: auto;
+  font-style: normal;
+  text-align: left;
+  font-weight: 500px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.form-daftar-agen-pos-badan-usaha51381-svg2 {
+  top: 25px;
+  left: 226.8000030517578px;
+  width: 8;
+  height: 11;
+  position: absolute;
+}
+.form-daftar-agen-pos-badan-usaha51381-text20 {
+  top: 0px;
+  left: 2px;
+  color: var(--dl-color-default-text70d26);
+  width: 98px;
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  align-self: auto;
+  font-style: normal;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 700px;
+  line-height: 28px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.form-daftar-agen-pos-badan-usaha51381-text21 {
+  color: rgba(37, 43, 66, 1);
+  width: 98px;
+  height: auto;
+  align-self: auto;
+  font-style: normal;
+  text-align: left;
+  font-weight: 700px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.form-daftar-agen-pos-badan-usaha51381-group109251409 {
+  top: 335.52734375px;
+  left: 351px;
+  width: 243px;
+  height: 95px;
+  display: flex;
+  position: absolute;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+}
+.form-daftar-agen-pos-badan-usaha51381-dropdown51410 {
+  top: 37px;
+  left: 0px;
+  width: 243px;
+  height: 58px;
+  display: flex;
+  padding: 19px 25px;
+  overflow: hidden;
+  position: absolute;
+  box-sizing: border-box;
+  align-items: flex-start;
+  border-color: rgba(231, 119, 23, 1);
+  border-style: solid;
+  border-width: 2px;
+  border-radius: 10px;
+  background-color: rgba(255, 255, 255, 1);
+}
+.form-daftar-agen-pos-badan-usaha51381-text22 {
+  top: 21px;
+  left: 25px;
+  color: var(--dl-color-default-text70d26);
+  height: auto;
+  position: absolute;
+  font-size: 15px;
+  align-self: auto;
+  font-style: normal;
+  text-align: left;
+  font-family: Roboto;
+  font-weight: 500px;
+  line-height: 16px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.form-daftar-agen-pos-badan-usaha51381-text23 {
+  color: rgba(37, 43, 66, 1);
+  height: auto;
+  align-self: auto;
+  font-style: normal;
+  text-align: left;
+  font-weight: 500px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.form-daftar-agen-pos-badan-usaha51381-svg3 {
+  top: 25px;
+  left: 226.8000030517578px;
+  width: 8;
+  height: 11;
+  position: absolute;
+}
+.form-daftar-agen-pos-badan-usaha51381-text24 {
+  top: 0px;
+  left: 2px;
+  color: var(--dl-color-default-text70d26);
+  width: 88px;
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  align-self: auto;
+  font-style: normal;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 700px;
+  line-height: 28px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.form-daftar-agen-pos-badan-usaha51381-text25 {
+  color: rgba(37, 43, 66, 1);
+  width: 88px;
+  height: auto;
+  align-self: auto;
+  font-style: normal;
+  text-align: left;
+  font-weight: 700px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.form-daftar-agen-pos-badan-usaha51381-group109051412 {
+  top: 224.52734375px;
+  left: 674px;
+  width: 243px;
+  height: 95px;
+  display: flex;
+  position: absolute;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+}
+.form-daftar-agen-pos-badan-usaha51381-dropdown51413 {
+  top: 37px;
+  left: 0px;
+  width: 243px;
+  height: 58px;
+  display: flex;
+  padding: 19px 25px;
+  overflow: hidden;
+  position: absolute;
+  box-sizing: border-box;
+  align-items: flex-start;
+  border-color: rgba(231, 119, 23, 1);
+  border-style: solid;
+  border-width: 2px;
+  border-radius: 10px;
+  background-color: rgba(255, 255, 255, 1);
+}
+.form-daftar-agen-pos-badan-usaha51381-text26 {
+  top: 21px;
+  left: 25px;
+  color: var(--dl-color-default-text70d26);
+  height: auto;
+  position: absolute;
+  font-size: 15px;
+  align-self: auto;
+  font-style: normal;
+  text-align: left;
+  font-family: Roboto;
+  font-weight: 500px;
+  line-height: 16px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.form-daftar-agen-pos-badan-usaha51381-text27 {
+  color: rgba(37, 43, 66, 1);
+  height: auto;
+  align-self: auto;
+  font-style: normal;
+  text-align: left;
+  font-weight: 500px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.form-daftar-agen-pos-badan-usaha51381-svg4 {
+  top: 25px;
+  left: 226.8000030517578px;
+  width: 8;
+  height: 11;
+  position: absolute;
+}
+.form-daftar-agen-pos-badan-usaha51381-text28 {
+  top: 0px;
+  left: 2px;
+  color: var(--dl-color-default-text70d26);
+  width: 140px;
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  align-self: auto;
+  font-style: normal;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 700px;
+  line-height: 28px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.form-daftar-agen-pos-badan-usaha51381-text29 {
+  color: rgba(37, 43, 66, 1);
+  width: 140px;
+  height: auto;
+  align-self: auto;
+  font-style: normal;
+  text-align: left;
+  font-weight: 700px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.form-daftar-agen-pos-badan-usaha51381-group109351415 {
+  top: 446.52734375px;
+  left: 28px;
+  width: 889px;
+  height: 143px;
+  display: flex;
+  position: absolute;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+}
+.form-daftar-agen-pos-badan-usaha51381-input51416 {
+  top: 37px;
+  width: 889px;
+  height: 106px;
+  display: flex;
+  padding: 19px 25px;
+  overflow: hidden;
+  position: absolute;
+  font-size: 15px;
+  box-sizing: border-box;
+  text-align: left;
+  align-items: flex-start;
+  font-family: Roboto;
+  font-weight: 500;
+  border-color: rgba(231, 119, 23, 1);
+  border-style: solid;
+  border-width: 2px;
+  border-radius: 10px;
+  background-color: rgba(255, 255, 255, 1);
+}
+.form-daftar-agen-pos-badan-usaha51381-text30 {
+  top: 0px;
+  left: 4.716796875px;
+  color: var(--dl-color-default-text70d26);
+  width: 149px;
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  align-self: auto;
+  font-style: normal;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 700px;
+  line-height: 28px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.form-daftar-agen-pos-badan-usaha51381-text31 {
+  color: rgba(37, 43, 66, 1);
+  width: 149px;
+  height: auto;
+  align-self: auto;
+  font-style: normal;
+  text-align: left;
+  font-weight: 700px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.form-daftar-agen-pos-badan-usaha51381-form-field51515 {
+  top: 1115.52734375px;
+  left: 28px;
+  width: 591px;
+  height: 95px;
+  display: flex;
+  position: absolute;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+}
+.form-daftar-agen-pos-badan-usaha51381-input51516 {
+  top: 37px;
+  left: 0px;
+  width: 591px;
+  height: 58px;
+  display: flex;
+  padding: 19px 25px;
+  overflow: hidden;
+  position: absolute;
+  box-sizing: border-box;
+  align-items: flex-start;
+  border-color: rgba(231, 119, 23, 1);
+  border-style: solid;
+  border-width: 2px;
+  border-radius: 10px;
+  background-color: rgba(255, 255, 255, 1);
+}
+.form-daftar-agen-pos-badan-usaha51381-text32 {
+  top: 21px;
+  left: 25px;
+  color: var(--dl-color-default-text70d26);
+  height: auto;
+  position: absolute;
+  font-size: 15px;
+  align-self: auto;
+  font-style: normal;
+  text-align: left;
+  font-family: Roboto;
+  font-weight: 500px;
+  line-height: 16px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.form-daftar-agen-pos-badan-usaha51381-text33 {
+  color: rgba(37, 43, 66, 1);
+  height: auto;
+  align-self: auto;
+  font-style: normal;
+  text-align: left;
+  font-weight: 500px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.form-daftar-agen-pos-badan-usaha51381-input51521 {
+  top: 5.47265625px;
+  left: 438px;
+  width: 148px;
+  height: 48px;
+  display: flex;
+  padding: 19px 25px;
+  overflow: hidden;
+  position: absolute;
+  font-size: 15px;
+  box-sizing: border-box;
+  text-align: left;
+  align-items: flex-start;
+  font-family: Roboto;
+  font-weight: 500;
+  border-color: rgba(231, 119, 23, 1);
+  border-style: solid;
+  border-width: 2px;
+  border-radius: 10px;
+  background-color: var(--dl-color-default-blur94062);
+}
+.form-daftar-agen-pos-badan-usaha51381-text34 {
+  top: 0px;
+  left: 1.6201171875px;
+  color: var(--dl-color-default-text70d26);
+  width: 283px;
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  align-self: auto;
+  font-style: normal;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 700px;
+  line-height: 28px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.form-daftar-agen-pos-badan-usaha51381-text35 {
+  color: rgba(37, 43, 66, 1);
+  width: 283px;
+  height: auto;
+  align-self: auto;
+  font-style: normal;
+  text-align: left;
+  font-weight: 700px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.form-daftar-agen-pos-badan-usaha51381-form-field51523 {
+  top: 1227px;
+  left: 28px;
+  width: 591px;
+  height: 95px;
+  display: flex;
+  position: absolute;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+}
+.form-daftar-agen-pos-badan-usaha51381-input51524 {
+  top: 37px;
+  left: 0px;
+  width: 591px;
+  height: 58px;
+  display: flex;
+  padding: 19px 25px;
+  overflow: hidden;
+  position: absolute;
+  box-sizing: border-box;
+  align-items: flex-start;
+  border-color: rgba(231, 119, 23, 1);
+  border-style: solid;
+  border-width: 2px;
+  border-radius: 10px;
+  background-color: rgba(255, 255, 255, 1);
+}
+.form-daftar-agen-pos-badan-usaha51381-text36 {
+  top: 21px;
+  left: 25px;
+  color: var(--dl-color-default-text70d26);
+  height: auto;
+  position: absolute;
+  font-size: 15px;
+  align-self: auto;
+  font-style: normal;
+  text-align: left;
+  font-family: Roboto;
+  font-weight: 500px;
+  line-height: 16px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.form-daftar-agen-pos-badan-usaha51381-text37 {
+  color: rgba(37, 43, 66, 1);
+  height: auto;
+  align-self: auto;
+  font-style: normal;
+  text-align: left;
+  font-weight: 500px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.form-daftar-agen-pos-badan-usaha51381-input51526 {
+  top: 5.47265625px;
+  left: 438px;
+  width: 148px;
+  height: 48px;
+  display: flex;
+  padding: 19px 25px;
+  overflow: hidden;
+  position: absolute;
+  font-size: 15px;
+  box-sizing: border-box;
+  text-align: left;
+  align-items: flex-start;
+  font-family: Roboto;
+  font-weight: 500;
+  border-color: rgba(231, 119, 23, 1);
+  border-style: solid;
+  border-width: 2px;
+  border-radius: 10px;
+  background-color: var(--dl-color-default-blur94062);
+}
+.form-daftar-agen-pos-badan-usaha51381-text38 {
+  top: 0px;
+  left: 1.6201171875px;
+  color: var(--dl-color-default-text70d26);
+  width: 41px;
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  align-self: auto;
+  font-style: normal;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 700px;
+  line-height: 28px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.form-daftar-agen-pos-badan-usaha51381-text39 {
+  color: rgba(37, 43, 66, 1);
+  width: 41px;
+  height: auto;
+  align-self: auto;
+  font-style: normal;
+  text-align: left;
+  font-weight: 700px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.form-daftar-agen-pos-badan-usaha51381-form-field51529 {
+  top: 1338px;
+  left: 28px;
+  width: 591px;
+  height: 95px;
+  display: flex;
+  position: absolute;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+}
+.form-daftar-agen-pos-badan-usaha51381-input51530 {
+  top: 37px;
+  left: 0px;
+  width: 591px;
+  height: 58px;
+  display: flex;
+  padding: 19px 25px;
+  overflow: hidden;
+  position: absolute;
+  box-sizing: border-box;
+  align-items: flex-start;
+  border-color: rgba(231, 119, 23, 1);
+  border-style: solid;
+  border-width: 2px;
+  border-radius: 10px;
+  background-color: rgba(255, 255, 255, 1);
+}
+.form-daftar-agen-pos-badan-usaha51381-text40 {
+  top: 21px;
+  left: 25px;
+  color: var(--dl-color-default-text70d26);
+  height: auto;
+  position: absolute;
+  font-size: 15px;
+  align-self: auto;
+  font-style: normal;
+  text-align: left;
+  font-family: Roboto;
+  font-weight: 500px;
+  line-height: 16px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.form-daftar-agen-pos-badan-usaha51381-text41 {
+  color: rgba(37, 43, 66, 1);
+  height: auto;
+  align-self: auto;
+  font-style: normal;
+  text-align: left;
+  font-weight: 500px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.form-daftar-agen-pos-badan-usaha51381-input51532 {
+  top: 5.47265625px;
+  left: 438px;
+  width: 148px;
+  height: 48px;
+  display: flex;
+  padding: 19px 25px;
+  overflow: hidden;
+  position: absolute;
+  font-size: 15px;
+  box-sizing: border-box;
+  text-align: left;
+  align-items: flex-start;
+  font-family: Roboto;
+  font-weight: 500;
+  border-color: rgba(231, 119, 23, 1);
+  border-style: solid;
+  border-width: 2px;
+  border-radius: 10px;
+  background-color: var(--dl-color-default-blur94062);
+}
+.form-daftar-agen-pos-badan-usaha51381-text42 {
+  top: 0px;
+  left: 1.6201171875px;
+  color: var(--dl-color-default-text70d26);
+  width: 56px;
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  align-self: auto;
+  font-style: normal;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 700px;
+  line-height: 28px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.form-daftar-agen-pos-badan-usaha51381-text43 {
+  color: rgba(37, 43, 66, 1);
+  width: 56px;
+  height: auto;
+  align-self: auto;
+  font-style: normal;
+  text-align: left;
+  font-weight: 700px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.form-daftar-agen-pos-badan-usaha51381-form-field51535 {
+  top: 1449px;
+  left: 28px;
+  width: 591px;
+  height: 95px;
+  display: flex;
+  position: absolute;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+}
+.form-daftar-agen-pos-badan-usaha51381-input51536 {
+  top: 37px;
+  left: 0px;
+  width: 591px;
+  height: 58px;
+  display: flex;
+  padding: 19px 25px;
+  overflow: hidden;
+  position: absolute;
+  box-sizing: border-box;
+  align-items: flex-start;
+  border-color: rgba(231, 119, 23, 1);
+  border-style: solid;
+  border-width: 2px;
+  border-radius: 10px;
+  background-color: rgba(255, 255, 255, 1);
+}
+.form-daftar-agen-pos-badan-usaha51381-text44 {
+  top: 21px;
+  left: 25px;
+  color: var(--dl-color-default-text70d26);
+  height: auto;
+  position: absolute;
+  font-size: 15px;
+  align-self: auto;
+  font-style: normal;
+  text-align: left;
+  font-family: Roboto;
+  font-weight: 500px;
+  line-height: 16px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.form-daftar-agen-pos-badan-usaha51381-text45 {
+  color: rgba(37, 43, 66, 1);
+  height: auto;
+  align-self: auto;
+  font-style: normal;
+  text-align: left;
+  font-weight: 500px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.form-daftar-agen-pos-badan-usaha51381-input51538 {
+  top: 5.47265625px;
+  left: 438px;
+  width: 148px;
+  height: 48px;
+  display: flex;
+  padding: 19px 25px;
+  overflow: hidden;
+  position: absolute;
+  font-size: 15px;
+  box-sizing: border-box;
+  text-align: left;
+  align-items: flex-start;
+  font-family: Roboto;
+  font-weight: 500;
+  border-color: rgba(231, 119, 23, 1);
+  border-style: solid;
+  border-width: 2px;
+  border-radius: 10px;
+  background-color: var(--dl-color-default-blur94062);
+}
+.form-daftar-agen-pos-badan-usaha51381-text46 {
+  top: 0px;
+  left: 1.6201171875px;
+  color: var(--dl-color-default-text70d26);
+  width: 333px;
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  align-self: auto;
+  font-style: normal;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 700px;
+  line-height: 28px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.form-daftar-agen-pos-badan-usaha51381-text47 {
+  color: rgba(37, 43, 66, 1);
+  width: 333px;
+  height: auto;
+  align-self: auto;
+  font-style: normal;
+  text-align: left;
+  font-weight: 700px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.form-daftar-agen-pos-badan-usaha51381-group1109118625 {
+  top: 605.52734375px;
+  left: 28px;
+  width: 888px;
+  height: 450.9453125px;
+  display: flex;
+  position: absolute;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+}
+.form-daftar-agen-pos-badan-usaha51381-group1102118626 {
+  top: 233px;
+  left: 0px;
+  width: 260px;
+  height: 217px;
+  display: flex;
+  position: absolute;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+}
+.form-daftar-agen-pos-badan-usaha51381-text48 {
+  top: 0px;
+  left: 5px;
+  color: var(--dl-color-default-text70d26);
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  align-self: auto;
+  font-style: normal;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 700px;
+  line-height: 28px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.form-daftar-agen-pos-badan-usaha51381-text49 {
+  color: rgba(37, 43, 66, 1);
+  height: auto;
+  align-self: auto;
+  font-style: normal;
+  text-align: left;
+  font-weight: 700px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.form-daftar-agen-pos-badan-usaha51381-maskgroup118628 {
+  top: 37px;
+  left: 0px;
+  width: 260px;
+  height: 180px;
+  display: flex;
+  position: absolute;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+}
+.form-daftar-agen-pos-badan-usaha51381-image {
+  top: 0.47265625px;
+  left: 0px;
+  width: 260px;
+  height: 180px;
+  position: absolute;
+  object-fit: cover;
+  border-color: transparent;
+}
+.form-daftar-agen-pos-badan-usaha51381-group1103118631 {
+  top: 233.47265625px;
+  left: 314px;
+  width: 260px;
+  height: 217px;
+  display: flex;
+  position: absolute;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+}
+.form-daftar-agen-pos-badan-usaha51381-text50 {
+  top: 0px;
+  left: 5px;
+  color: var(--dl-color-default-text70d26);
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  align-self: auto;
+  font-style: normal;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 700px;
+  line-height: 28px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.form-daftar-agen-pos-badan-usaha51381-text51 {
+  color: rgba(37, 43, 66, 1);
+  height: auto;
+  align-self: auto;
+  font-style: normal;
+  text-align: left;
+  font-weight: 700px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.form-daftar-agen-pos-badan-usaha51381-maskgroup118633 {
+  top: 37px;
+  left: 0px;
+  width: 260px;
+  height: 180px;
+  display: flex;
+  position: absolute;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+}
+.form-daftar-agen-pos-badan-usaha51381-image1 {
+  top: 0px;
+  left: 0px;
+  width: 260px;
+  height: 180px;
+  position: absolute;
+  object-fit: cover;
+  border-color: transparent;
+}
+.form-daftar-agen-pos-badan-usaha51381-group1104118636 {
+  top: 233.9453125px;
+  left: 628px;
+  width: 260px;
+  height: 217px;
+  display: flex;
+  position: absolute;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+}
+.form-daftar-agen-pos-badan-usaha51381-text52 {
+  top: 0px;
+  left: 5px;
+  color: var(--dl-color-default-text70d26);
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  align-self: auto;
+  font-style: normal;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 700px;
+  line-height: 28px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.form-daftar-agen-pos-badan-usaha51381-text53 {
+  color: rgba(37, 43, 66, 1);
+  height: auto;
+  align-self: auto;
+  font-style: normal;
+  text-align: left;
+  font-weight: 700px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.form-daftar-agen-pos-badan-usaha51381-maskgroup118638 {
+  top: 37px;
+  left: 0px;
+  width: 260px;
+  height: 180px;
+  display: flex;
+  position: absolute;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+}
+.form-daftar-agen-pos-badan-usaha51381-image2 {
+  top: -0.47265625px;
+  left: 0px;
+  width: 260px;
+  height: 180px;
+  position: absolute;
+  object-fit: cover;
+  border-color: transparent;
+}
+.form-daftar-agen-pos-badan-usaha51381-group1100118641 {
+  top: 0.47265625px;
+  left: 314px;
+  width: 260px;
+  height: 217px;
+  display: flex;
+  position: absolute;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+}
+.form-daftar-agen-pos-badan-usaha51381-maskgroup118642 {
+  top: 37px;
+  left: 0px;
+  width: 260px;
+  height: 180px;
+  display: flex;
+  position: absolute;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+}
+.form-daftar-agen-pos-badan-usaha51381-image3 {
+  top: 0px;
+  left: 0px;
+  width: 260px;
+  height: 180px;
+  position: absolute;
+  object-fit: cover;
+  border-color: transparent;
+}
+.form-daftar-agen-pos-badan-usaha51381-text54 {
+  top: 0px;
+  left: 65px;
+  color: var(--dl-color-default-text70d26);
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  align-self: auto;
+  font-style: normal;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 700px;
+  line-height: 28px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.form-daftar-agen-pos-badan-usaha51381-text55 {
+  color: rgba(37, 43, 66, 1);
+  height: auto;
+  align-self: auto;
+  font-style: normal;
+  text-align: left;
+  font-weight: 700px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.form-daftar-agen-pos-badan-usaha51381-group1101118646 {
+  top: 0.9453125px;
+  left: 628px;
+  width: 260px;
+  height: 217px;
+  display: flex;
+  position: absolute;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+}
+.form-daftar-agen-pos-badan-usaha51381-text56 {
+  top: 0px;
+  left: 66px;
+  color: var(--dl-color-default-text70d26);
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  align-self: auto;
+  font-style: normal;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 700px;
+  line-height: 28px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.form-daftar-agen-pos-badan-usaha51381-text57 {
+  color: rgba(37, 43, 66, 1);
+  height: auto;
+  align-self: auto;
+  font-style: normal;
+  text-align: left;
+  font-weight: 700px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.form-daftar-agen-pos-badan-usaha51381-maskgroup118648 {
+  top: 37px;
+  left: 0px;
+  width: 260px;
+  height: 180px;
+  display: flex;
+  position: absolute;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+}
+.form-daftar-agen-pos-badan-usaha51381-image4 {
+  top: -0.47265625px;
+  left: 0px;
+  width: 261px;
+  height: 180px;
+  position: absolute;
+  object-fit: cover;
+  border-color: transparent;
+}
+.form-daftar-agen-pos-badan-usaha51381-group1105118651 {
+  top: 0px;
+  left: 0px;
+  width: 260px;
+  height: 217px;
+  display: flex;
+  position: absolute;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+}
+.form-daftar-agen-pos-badan-usaha51381-group1099118652 {
+  top: 0px;
+  left: 72px;
+  width: 116px;
+  height: 28px;
+  display: flex;
+  position: absolute;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+}
+.form-daftar-agen-pos-badan-usaha51381-text58 {
+  top: 0px;
+  left: 0px;
+  color: var(--dl-color-default-text70d26);
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  align-self: auto;
+  font-style: normal;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 700px;
+  line-height: 28px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.form-daftar-agen-pos-badan-usaha51381-text59 {
+  color: rgba(37, 43, 66, 1);
+  height: auto;
+  align-self: auto;
+  font-style: normal;
+  text-align: left;
+  font-weight: 700px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.form-daftar-agen-pos-badan-usaha51381-maskgroup118654 {
+  top: 37px;
+  left: 0px;
+  width: 260px;
+  height: 180px;
+  display: flex;
+  position: absolute;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+}
+.form-daftar-agen-pos-badan-usaha51381-image5 {
+  top: 0.47265625px;
+  left: 0px;
+  width: 255px;
+  height: 210px;
+  position: absolute;
+  object-fit: cover;
+  border-color: transparent;
+}
+.form-daftar-agen-pos-badan-usaha51381-group1108123422 {
+  top: 1568px;
+  left: 28px;
+  width: 888px;
+  height: 105.47265625px;
+  display: flex;
+  position: absolute;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+}
+.form-daftar-agen-pos-badan-usaha51381-group1107123423 {
+  top: 0px;
+  left: 0px;
+  width: 259px;
+  height: 25px;
+  display: flex;
+  position: absolute;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+}
+.form-daftar-agen-pos-badan-usaha51381-image6 {
+  top: 0px;
+  left: 0px;
+  width: 25px;
+  height: 25px;
+  position: absolute;
+  object-fit: cover;
+  border-color: transparent;
+}
+.form-daftar-agen-pos-badan-usaha51381-text60 {
+  top: 5.47265625px;
+  left: 39px;
+  color: var(--dl-color-default-text70d26);
+  height: auto;
+  position: absolute;
+  font-size: 15px;
+  align-self: auto;
+  font-style: normal;
+  text-align: left;
+  font-family: Roboto;
+  font-weight: 500px;
+  line-height: 16px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.form-daftar-agen-pos-badan-usaha51381-text61 {
+  color: rgba(37, 43, 66, 1);
+  height: auto;
+  align-self: auto;
+  font-style: normal;
+  text-align: left;
+  font-weight: 500px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.form-daftar-agen-pos-badan-usaha51381-lefticonbutton123426 {
+  top: 45.47265625px;
+  left: 725px;
+  width: 163px;
+  height: 60px;
+  display: flex;
+  padding: 16px 30px;
+  overflow: hidden;
+  position: absolute;
+  box-sizing: border-box;
+  align-items: center;
+  border-color: transparent;
+  border-radius: 10px;
+  background-color: var(--dl-color-default-primary02878);
+}
+.form-daftar-agen-pos-badan-usaha51381-text62 {
+  color: var(--dl-color-default-lighttext82584);
+  height: auto;
+  align-self: auto;
+  text-align: left;
+  line-height: 28px;
+  text-decoration: none;
+}
+.form-daftar-agen-pos-badan-usaha51381-text63 {
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  align-self: auto;
+  font-style: normal;
+  text-align: left;
+  font-weight: 700px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.form-daftar-agen-pos-badan-usaha51381-image7 {
+  top: 18px;
+  left: 123px;
+  width: 24px;
+  height: 24px;
+  position: absolute;
+  object-fit: cover;
+  border-color: transparent;
+}
+.form-daftar-agen-pos-badan-usaha51381-lefticonbutton123430 {
+  top: 45px;
+  left: 0px;
+  width: 163px;
+  height: 60px;
+  display: flex;
+  padding: 16px 30px;
+  overflow: hidden;
+  position: absolute;
+  box-sizing: border-box;
+  align-items: center;
+  border-color: transparent;
+  border-radius: 10px;
+  background-color: var(--dl-color-default-primary02878);
+}
+.form-daftar-agen-pos-badan-usaha51381-text64 {
+  color: var(--dl-color-default-lighttext82584);
+  height: auto;
+  align-self: auto;
+  text-align: left;
+  line-height: 28px;
+  text-decoration: none;
+}
+.form-daftar-agen-pos-badan-usaha51381-text65 {
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  align-self: auto;
+  font-style: normal;
+  text-align: left;
+  font-weight: 700px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.form-daftar-agen-pos-badan-usaha51381-image8 {
+  top: 12px;
+  left: 117px;
+  width: 36px;
+  height: 36px;
+  position: absolute;
+  object-fit: cover;
+  border-color: transparent;
+}

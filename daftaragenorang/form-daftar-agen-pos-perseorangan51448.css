@@ -1,0 +1,1352 @@
+.form-daftar-agen-pos-perseorangan51448-container {
+  min-height: 100vh;
+}
+.form-daftar-agen-pos-perseorangan51448-form-daftar-agen-pos-perseorangan51448 {
+  width: 1440px;
+  height: 1210px;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  max-width: 1440px;
+  align-self: stretch;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  background-color: rgba(241, 241, 241, 1);
+}
+.form-daftar-agen-pos-perseorangan51448-formstyle451449 {
+  top: 7px;
+  left: 248px;
+  width: 944px;
+  height: 1203px;
+  display: flex;
+  padding: 50px;
+  overflow: hidden;
+  position: absolute;
+  box-sizing: border-box;
+  align-items: flex-start;
+  border-color: transparent;
+  border-radius: 6px;
+}
+.form-daftar-agen-pos-perseorangan51448-text {
+  top: 44.5980224609375px;
+  left: 372px;
+  color: var(--dl-color-default-primary02878);
+  width: 200px;
+  height: auto;
+  position: absolute;
+  align-self: auto;
+  text-align: left;
+  line-height: 36px;
+  text-decoration: none;
+}
+.form-daftar-agen-pos-perseorangan51448-text01 {
+  color: rgba(231, 119, 23, 1);
+  width: 200px;
+  height: auto;
+  align-self: auto;
+  font-style: normal;
+  text-align: left;
+  font-weight: 700px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.form-daftar-agen-pos-perseorangan51448-form-field51451 {
+  top: 114px;
+  left: 28px;
+  width: 243px;
+  height: 94.52734375px;
+  display: flex;
+  position: absolute;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+}
+.form-daftar-agen-pos-perseorangan51448-input51452 {
+  top: 36.52734375px;
+  width: 243px;
+  height: 58px;
+  display: flex;
+  padding: 19px 25px;
+  overflow: hidden;
+  position: absolute;
+  font-size: 15px;
+  box-sizing: border-box;
+  text-align: left;
+  align-items: flex-start;
+  font-family: Roboto;
+  font-weight: 500;
+  border-color: rgba(231, 119, 23, 1);
+  border-style: solid;
+  border-width: 2px;
+  border-radius: 10px;
+  background-color: rgba(255, 255, 255, 1);
+}
+.form-daftar-agen-pos-perseorangan51448-text02 {
+  top: 0px;
+  left: 1.6201171875px;
+  color: var(--dl-color-default-text70d26);
+  width: 131px;
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  align-self: auto;
+  font-style: normal;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 700px;
+  line-height: 28px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.form-daftar-agen-pos-perseorangan51448-text03 {
+  color: rgba(37, 43, 66, 1);
+  width: 131px;
+  height: auto;
+  align-self: auto;
+  font-style: normal;
+  text-align: left;
+  font-weight: 700px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.form-daftar-agen-pos-perseorangan51448-form-field51455 {
+  top: 114px;
+  left: 351px;
+  width: 243px;
+  height: 94.52734375px;
+  display: flex;
+  position: absolute;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+}
+.form-daftar-agen-pos-perseorangan51448-input51456 {
+  top: 36.52734375px;
+  width: 243px;
+  height: 58px;
+  display: flex;
+  padding: 19px 25px;
+  overflow: hidden;
+  position: absolute;
+  font-size: 15px;
+  box-sizing: border-box;
+  text-align: left;
+  align-items: flex-start;
+  font-family: Roboto;
+  font-weight: 500;
+  border-color: rgba(231, 119, 23, 1);
+  border-style: solid;
+  border-width: 2px;
+  border-radius: 10px;
+  background-color: rgba(255, 255, 255, 1);
+}
+.form-daftar-agen-pos-perseorangan51448-text04 {
+  top: 0px;
+  left: 1.6201171875px;
+  color: var(--dl-color-default-text70d26);
+  width: 120px;
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  align-self: auto;
+  font-style: normal;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 700px;
+  line-height: 28px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.form-daftar-agen-pos-perseorangan51448-text05 {
+  color: rgba(37, 43, 66, 1);
+  width: 120px;
+  height: auto;
+  align-self: auto;
+  font-style: normal;
+  text-align: left;
+  font-weight: 700px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.form-daftar-agen-pos-perseorangan51448-form-field51459 {
+  top: 114px;
+  left: 674px;
+  width: 243px;
+  height: 94.52734375px;
+  display: flex;
+  position: absolute;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+}
+.form-daftar-agen-pos-perseorangan51448-input51460 {
+  top: 36.52734375px;
+  width: 243px;
+  height: 58px;
+  display: flex;
+  padding: 19px 25px;
+  overflow: hidden;
+  position: absolute;
+  font-size: 15px;
+  box-sizing: border-box;
+  text-align: left;
+  align-items: flex-start;
+  font-family: Roboto;
+  font-weight: 500;
+  border-color: rgba(231, 119, 23, 1);
+  border-style: solid;
+  border-width: 2px;
+  border-radius: 10px;
+  background-color: rgba(255, 255, 255, 1);
+}
+.form-daftar-agen-pos-perseorangan51448-text06 {
+  top: 0px;
+  left: 1.6201171875px;
+  color: var(--dl-color-default-text70d26);
+  width: 54px;
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  align-self: auto;
+  font-style: normal;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 700px;
+  line-height: 28px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.form-daftar-agen-pos-perseorangan51448-text07 {
+  color: rgba(37, 43, 66, 1);
+  width: 54px;
+  height: auto;
+  align-self: auto;
+  font-style: normal;
+  text-align: left;
+  font-weight: 700px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.form-daftar-agen-pos-perseorangan51448-form-field51463 {
+  top: 335.52734375px;
+  left: 674px;
+  width: 243px;
+  height: 94.52734375px;
+  display: flex;
+  position: absolute;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+}
+.form-daftar-agen-pos-perseorangan51448-input51464 {
+  top: 36.52734375px;
+  width: 243px;
+  height: 58px;
+  display: flex;
+  padding: 19px 25px;
+  overflow: hidden;
+  position: absolute;
+  font-size: 15px;
+  box-sizing: border-box;
+  text-align: left;
+  align-items: flex-start;
+  font-family: Roboto;
+  font-weight: 500;
+  border-color: rgba(231, 119, 23, 1);
+  border-style: solid;
+  border-width: 2px;
+  border-radius: 10px;
+  background-color: rgba(255, 255, 255, 1);
+}
+.form-daftar-agen-pos-perseorangan51448-text08 {
+  top: 0px;
+  left: 1.6201171875px;
+  color: var(--dl-color-default-text70d26);
+  width: 80px;
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  align-self: auto;
+  font-style: normal;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 700px;
+  line-height: 28px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.form-daftar-agen-pos-perseorangan51448-text09 {
+  color: rgba(37, 43, 66, 1);
+  width: 80px;
+  height: auto;
+  align-self: auto;
+  font-style: normal;
+  text-align: left;
+  font-weight: 700px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.form-daftar-agen-pos-perseorangan51448-group108851467 {
+  top: 224.52734375px;
+  left: 28px;
+  width: 243px;
+  height: 95px;
+  display: flex;
+  position: absolute;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+}
+.form-daftar-agen-pos-perseorangan51448-dropdown51468 {
+  top: 37px;
+  left: 0px;
+  width: 243px;
+  height: 58px;
+  display: flex;
+  padding: 19px 25px;
+  overflow: hidden;
+  position: absolute;
+  box-sizing: border-box;
+  align-items: flex-start;
+  border-color: rgba(231, 119, 23, 1);
+  border-style: solid;
+  border-width: 2px;
+  border-radius: 10px;
+  background-color: rgba(255, 255, 255, 1);
+}
+.form-daftar-agen-pos-perseorangan51448-text10 {
+  top: 21px;
+  left: 25px;
+  color: var(--dl-color-default-text70d26);
+  height: auto;
+  position: absolute;
+  font-size: 15px;
+  align-self: auto;
+  font-style: normal;
+  text-align: left;
+  font-family: Roboto;
+  font-weight: 500px;
+  line-height: 16px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.form-daftar-agen-pos-perseorangan51448-text11 {
+  color: rgba(37, 43, 66, 1);
+  height: auto;
+  align-self: auto;
+  font-style: normal;
+  text-align: left;
+  font-weight: 500px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.form-daftar-agen-pos-perseorangan51448-svg {
+  top: 25px;
+  left: 226.8000030517578px;
+  width: 8;
+  height: 11;
+  position: absolute;
+}
+.form-daftar-agen-pos-perseorangan51448-text12 {
+  top: 0px;
+  left: 2px;
+  color: var(--dl-color-default-text70d26);
+  width: 94px;
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  align-self: auto;
+  font-style: normal;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 700px;
+  line-height: 28px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.form-daftar-agen-pos-perseorangan51448-text13 {
+  color: rgba(37, 43, 66, 1);
+  width: 94px;
+  height: auto;
+  align-self: auto;
+  font-style: normal;
+  text-align: left;
+  font-weight: 700px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.form-daftar-agen-pos-perseorangan51448-group108951470 {
+  top: 224.52734375px;
+  left: 351px;
+  width: 243px;
+  height: 95px;
+  display: flex;
+  position: absolute;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+}
+.form-daftar-agen-pos-perseorangan51448-dropdown51471 {
+  top: 37px;
+  left: 0px;
+  width: 243px;
+  height: 58px;
+  display: flex;
+  padding: 19px 25px;
+  overflow: hidden;
+  position: absolute;
+  box-sizing: border-box;
+  align-items: flex-start;
+  border-color: rgba(231, 119, 23, 1);
+  border-style: solid;
+  border-width: 2px;
+  border-radius: 10px;
+  background-color: rgba(255, 255, 255, 1);
+}
+.form-daftar-agen-pos-perseorangan51448-text14 {
+  top: 21px;
+  left: 25px;
+  color: var(--dl-color-default-text70d26);
+  height: auto;
+  position: absolute;
+  font-size: 15px;
+  align-self: auto;
+  font-style: normal;
+  text-align: left;
+  font-family: Roboto;
+  font-weight: 500px;
+  line-height: 16px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.form-daftar-agen-pos-perseorangan51448-text15 {
+  color: rgba(37, 43, 66, 1);
+  height: auto;
+  align-self: auto;
+  font-style: normal;
+  text-align: left;
+  font-weight: 500px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.form-daftar-agen-pos-perseorangan51448-svg1 {
+  top: 25px;
+  left: 226.8000030517578px;
+  width: 8;
+  height: 11;
+  position: absolute;
+}
+.form-daftar-agen-pos-perseorangan51448-text16 {
+  top: 0px;
+  left: 2px;
+  color: var(--dl-color-default-text70d26);
+  width: 69px;
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  align-self: auto;
+  font-style: normal;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 700px;
+  line-height: 28px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.form-daftar-agen-pos-perseorangan51448-text17 {
+  color: rgba(37, 43, 66, 1);
+  width: 69px;
+  height: auto;
+  align-self: auto;
+  font-style: normal;
+  text-align: left;
+  font-weight: 700px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.form-daftar-agen-pos-perseorangan51448-group109151473 {
+  top: 335.52734375px;
+  left: 28px;
+  width: 243px;
+  height: 95px;
+  display: flex;
+  position: absolute;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+}
+.form-daftar-agen-pos-perseorangan51448-dropdown51474 {
+  top: 37px;
+  left: 0px;
+  width: 243px;
+  height: 58px;
+  display: flex;
+  padding: 19px 25px;
+  overflow: hidden;
+  position: absolute;
+  box-sizing: border-box;
+  align-items: flex-start;
+  border-color: rgba(231, 119, 23, 1);
+  border-style: solid;
+  border-width: 2px;
+  border-radius: 10px;
+  background-color: rgba(255, 255, 255, 1);
+}
+.form-daftar-agen-pos-perseorangan51448-text18 {
+  top: 21px;
+  left: 25px;
+  color: var(--dl-color-default-text70d26);
+  height: auto;
+  position: absolute;
+  font-size: 15px;
+  align-self: auto;
+  font-style: normal;
+  text-align: left;
+  font-family: Roboto;
+  font-weight: 500px;
+  line-height: 16px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.form-daftar-agen-pos-perseorangan51448-text19 {
+  color: rgba(37, 43, 66, 1);
+  height: auto;
+  align-self: auto;
+  font-style: normal;
+  text-align: left;
+  font-weight: 500px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.form-daftar-agen-pos-perseorangan51448-svg2 {
+  top: 25px;
+  left: 226.8000030517578px;
+  width: 8;
+  height: 11;
+  position: absolute;
+}
+.form-daftar-agen-pos-perseorangan51448-text20 {
+  top: 0px;
+  left: 2px;
+  color: var(--dl-color-default-text70d26);
+  width: 98px;
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  align-self: auto;
+  font-style: normal;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 700px;
+  line-height: 28px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.form-daftar-agen-pos-perseorangan51448-text21 {
+  color: rgba(37, 43, 66, 1);
+  width: 98px;
+  height: auto;
+  align-self: auto;
+  font-style: normal;
+  text-align: left;
+  font-weight: 700px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.form-daftar-agen-pos-perseorangan51448-group109251476 {
+  top: 335.52734375px;
+  left: 351px;
+  width: 243px;
+  height: 95px;
+  display: flex;
+  position: absolute;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+}
+.form-daftar-agen-pos-perseorangan51448-dropdown51477 {
+  top: 37px;
+  left: 0px;
+  width: 243px;
+  height: 58px;
+  display: flex;
+  padding: 19px 25px;
+  overflow: hidden;
+  position: absolute;
+  box-sizing: border-box;
+  align-items: flex-start;
+  border-color: rgba(231, 119, 23, 1);
+  border-style: solid;
+  border-width: 2px;
+  border-radius: 10px;
+  background-color: rgba(255, 255, 255, 1);
+}
+.form-daftar-agen-pos-perseorangan51448-text22 {
+  top: 21px;
+  left: 25px;
+  color: var(--dl-color-default-text70d26);
+  height: auto;
+  position: absolute;
+  font-size: 15px;
+  align-self: auto;
+  font-style: normal;
+  text-align: left;
+  font-family: Roboto;
+  font-weight: 500px;
+  line-height: 16px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.form-daftar-agen-pos-perseorangan51448-text23 {
+  color: rgba(37, 43, 66, 1);
+  height: auto;
+  align-self: auto;
+  font-style: normal;
+  text-align: left;
+  font-weight: 500px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.form-daftar-agen-pos-perseorangan51448-svg3 {
+  top: 25px;
+  left: 226.8000030517578px;
+  width: 8;
+  height: 11;
+  position: absolute;
+}
+.form-daftar-agen-pos-perseorangan51448-text24 {
+  top: 0px;
+  left: 2px;
+  color: var(--dl-color-default-text70d26);
+  width: 88px;
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  align-self: auto;
+  font-style: normal;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 700px;
+  line-height: 28px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.form-daftar-agen-pos-perseorangan51448-text25 {
+  color: rgba(37, 43, 66, 1);
+  width: 88px;
+  height: auto;
+  align-self: auto;
+  font-style: normal;
+  text-align: left;
+  font-weight: 700px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.form-daftar-agen-pos-perseorangan51448-group109051479 {
+  top: 224.52734375px;
+  left: 674px;
+  width: 243px;
+  height: 95px;
+  display: flex;
+  position: absolute;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+}
+.form-daftar-agen-pos-perseorangan51448-dropdown51480 {
+  top: 37px;
+  left: 0px;
+  width: 243px;
+  height: 58px;
+  display: flex;
+  padding: 19px 25px;
+  overflow: hidden;
+  position: absolute;
+  box-sizing: border-box;
+  align-items: flex-start;
+  border-color: rgba(231, 119, 23, 1);
+  border-style: solid;
+  border-width: 2px;
+  border-radius: 10px;
+  background-color: rgba(255, 255, 255, 1);
+}
+.form-daftar-agen-pos-perseorangan51448-text26 {
+  top: 21px;
+  left: 25px;
+  color: var(--dl-color-default-text70d26);
+  height: auto;
+  position: absolute;
+  font-size: 15px;
+  align-self: auto;
+  font-style: normal;
+  text-align: left;
+  font-family: Roboto;
+  font-weight: 500px;
+  line-height: 16px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.form-daftar-agen-pos-perseorangan51448-text27 {
+  color: rgba(37, 43, 66, 1);
+  height: auto;
+  align-self: auto;
+  font-style: normal;
+  text-align: left;
+  font-weight: 500px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.form-daftar-agen-pos-perseorangan51448-svg4 {
+  top: 25px;
+  left: 226.8000030517578px;
+  width: 8;
+  height: 11;
+  position: absolute;
+}
+.form-daftar-agen-pos-perseorangan51448-text28 {
+  top: 0px;
+  left: 2px;
+  color: var(--dl-color-default-text70d26);
+  width: 140px;
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  align-self: auto;
+  font-style: normal;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 700px;
+  line-height: 28px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.form-daftar-agen-pos-perseorangan51448-text29 {
+  color: rgba(37, 43, 66, 1);
+  width: 140px;
+  height: auto;
+  align-self: auto;
+  font-style: normal;
+  text-align: left;
+  font-weight: 700px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.form-daftar-agen-pos-perseorangan51448-group109351482 {
+  top: 446.52734375px;
+  left: 28px;
+  width: 889px;
+  height: 143px;
+  display: flex;
+  position: absolute;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+}
+.form-daftar-agen-pos-perseorangan51448-input51483 {
+  top: 37px;
+  width: 889px;
+  height: 106px;
+  display: flex;
+  padding: 19px 25px;
+  overflow: hidden;
+  position: absolute;
+  font-size: 15px;
+  box-sizing: border-box;
+  text-align: left;
+  align-items: flex-start;
+  font-family: Roboto;
+  font-weight: 500;
+  border-color: rgba(231, 119, 23, 1);
+  border-style: solid;
+  border-width: 2px;
+  border-radius: 10px;
+  background-color: rgba(255, 255, 255, 1);
+}
+.form-daftar-agen-pos-perseorangan51448-text30 {
+  top: 0px;
+  left: 4.716796875px;
+  color: var(--dl-color-default-text70d26);
+  width: 149px;
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  align-self: auto;
+  font-style: normal;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 700px;
+  line-height: 28px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.form-daftar-agen-pos-perseorangan51448-text31 {
+  color: rgba(37, 43, 66, 1);
+  width: 149px;
+  height: auto;
+  align-self: auto;
+  font-style: normal;
+  text-align: left;
+  font-weight: 700px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.form-daftar-agen-pos-perseorangan51448-group110651567 {
+  top: 605.52734375px;
+  left: 28px;
+  width: 888px;
+  height: 450.9453125px;
+  display: flex;
+  position: absolute;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+}
+.form-daftar-agen-pos-perseorangan51448-group110251568 {
+  top: 233px;
+  left: 0px;
+  width: 260px;
+  height: 217px;
+  display: flex;
+  position: absolute;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+}
+.form-daftar-agen-pos-perseorangan51448-text32 {
+  top: 0px;
+  left: 5px;
+  color: var(--dl-color-default-text70d26);
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  align-self: auto;
+  font-style: normal;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 700px;
+  line-height: 28px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.form-daftar-agen-pos-perseorangan51448-text33 {
+  color: rgba(37, 43, 66, 1);
+  height: auto;
+  align-self: auto;
+  font-style: normal;
+  text-align: left;
+  font-weight: 700px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.form-daftar-agen-pos-perseorangan51448-maskgroup51570 {
+  top: 37px;
+  left: 0px;
+  width: 260px;
+  height: 180px;
+  display: flex;
+  position: absolute;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+}
+.form-daftar-agen-pos-perseorangan51448-image {
+  top: 0.47265625px;
+  left: 0px;
+  width: 260px;
+  height: 180px;
+  position: absolute;
+  object-fit: cover;
+  border-color: transparent;
+}
+.form-daftar-agen-pos-perseorangan51448-group110351573 {
+  top: 233.47265625px;
+  left: 314px;
+  width: 260px;
+  height: 217px;
+  display: flex;
+  position: absolute;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+}
+.form-daftar-agen-pos-perseorangan51448-text34 {
+  top: 0px;
+  left: 5px;
+  color: var(--dl-color-default-text70d26);
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  align-self: auto;
+  font-style: normal;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 700px;
+  line-height: 28px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.form-daftar-agen-pos-perseorangan51448-text35 {
+  color: rgba(37, 43, 66, 1);
+  height: auto;
+  align-self: auto;
+  font-style: normal;
+  text-align: left;
+  font-weight: 700px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.form-daftar-agen-pos-perseorangan51448-maskgroup51575 {
+  top: 37px;
+  left: 0px;
+  width: 260px;
+  height: 180px;
+  display: flex;
+  position: absolute;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+}
+.form-daftar-agen-pos-perseorangan51448-image1 {
+  top: 0px;
+  left: 0px;
+  width: 260px;
+  height: 180px;
+  position: absolute;
+  object-fit: cover;
+  border-color: transparent;
+}
+.form-daftar-agen-pos-perseorangan51448-group110451578 {
+  top: 233.9453125px;
+  left: 628px;
+  width: 260px;
+  height: 217px;
+  display: flex;
+  position: absolute;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+}
+.form-daftar-agen-pos-perseorangan51448-text36 {
+  top: 0px;
+  left: 5px;
+  color: var(--dl-color-default-text70d26);
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  align-self: auto;
+  font-style: normal;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 700px;
+  line-height: 28px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.form-daftar-agen-pos-perseorangan51448-text37 {
+  color: rgba(37, 43, 66, 1);
+  height: auto;
+  align-self: auto;
+  font-style: normal;
+  text-align: left;
+  font-weight: 700px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.form-daftar-agen-pos-perseorangan51448-maskgroup51580 {
+  top: 37px;
+  left: 0px;
+  width: 260px;
+  height: 180px;
+  display: flex;
+  position: absolute;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+}
+.form-daftar-agen-pos-perseorangan51448-image2 {
+  top: -0.47265625px;
+  left: 0px;
+  width: 260px;
+  height: 180px;
+  position: absolute;
+  object-fit: cover;
+  border-color: transparent;
+}
+.form-daftar-agen-pos-perseorangan51448-group110051583 {
+  top: 0.47265625px;
+  left: 314px;
+  width: 260px;
+  height: 217px;
+  display: flex;
+  position: absolute;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+}
+.form-daftar-agen-pos-perseorangan51448-maskgroup51584 {
+  top: 37px;
+  left: 0px;
+  width: 260px;
+  height: 180px;
+  display: flex;
+  position: absolute;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+}
+.form-daftar-agen-pos-perseorangan51448-image3 {
+  top: 0px;
+  left: 0px;
+  width: 260px;
+  height: 180px;
+  position: absolute;
+  object-fit: cover;
+  border-color: transparent;
+}
+.form-daftar-agen-pos-perseorangan51448-text38 {
+  top: 0px;
+  left: 65px;
+  color: var(--dl-color-default-text70d26);
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  align-self: auto;
+  font-style: normal;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 700px;
+  line-height: 28px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.form-daftar-agen-pos-perseorangan51448-text39 {
+  color: rgba(37, 43, 66, 1);
+  height: auto;
+  align-self: auto;
+  font-style: normal;
+  text-align: left;
+  font-weight: 700px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.form-daftar-agen-pos-perseorangan51448-group110151588 {
+  top: 0.9453125px;
+  left: 628px;
+  width: 260px;
+  height: 217px;
+  display: flex;
+  position: absolute;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+}
+.form-daftar-agen-pos-perseorangan51448-text40 {
+  top: 0px;
+  left: 66px;
+  color: var(--dl-color-default-text70d26);
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  align-self: auto;
+  font-style: normal;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 700px;
+  line-height: 28px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.form-daftar-agen-pos-perseorangan51448-text41 {
+  color: rgba(37, 43, 66, 1);
+  height: auto;
+  align-self: auto;
+  font-style: normal;
+  text-align: left;
+  font-weight: 700px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.form-daftar-agen-pos-perseorangan51448-maskgroup51590 {
+  top: 37px;
+  left: 0px;
+  width: 260px;
+  height: 180px;
+  display: flex;
+  position: absolute;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+}
+.form-daftar-agen-pos-perseorangan51448-image4 {
+  top: -0.47265625px;
+  left: 0px;
+  width: 261px;
+  height: 180px;
+  position: absolute;
+  object-fit: cover;
+  border-color: transparent;
+}
+.form-daftar-agen-pos-perseorangan51448-group110551593 {
+  top: 0px;
+  left: 0px;
+  width: 260px;
+  height: 217px;
+  display: flex;
+  position: absolute;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+}
+.form-daftar-agen-pos-perseorangan51448-group109951594 {
+  top: 0px;
+  left: 72px;
+  width: 116px;
+  height: 28px;
+  display: flex;
+  position: absolute;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+}
+.form-daftar-agen-pos-perseorangan51448-text42 {
+  top: 0px;
+  left: 0px;
+  color: var(--dl-color-default-text70d26);
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  align-self: auto;
+  font-style: normal;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 700px;
+  line-height: 28px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.form-daftar-agen-pos-perseorangan51448-text43 {
+  color: rgba(37, 43, 66, 1);
+  height: auto;
+  align-self: auto;
+  font-style: normal;
+  text-align: left;
+  font-weight: 700px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.form-daftar-agen-pos-perseorangan51448-maskgroup51596 {
+  top: 37px;
+  left: 0px;
+  width: 260px;
+  height: 180px;
+  display: flex;
+  position: absolute;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+}
+.form-daftar-agen-pos-perseorangan51448-image5 {
+  top: 0.47265625px;
+  left: 0px;
+  width: 255px;
+  height: 210px;
+  position: absolute;
+  object-fit: cover;
+  border-color: transparent;
+}
+.form-daftar-agen-pos-perseorangan51448-group1108123407 {
+  top: 1080px;
+  left: 28px;
+  width: 888px;
+  height: 105.47265625px;
+  display: flex;
+  position: absolute;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+}
+.form-daftar-agen-pos-perseorangan51448-group1107123408 {
+  top: 0px;
+  left: 0px;
+  width: 259px;
+  height: 25px;
+  display: flex;
+  position: absolute;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+}
+.form-daftar-agen-pos-perseorangan51448-frame30123456 {
+  top: 0px;
+  left: 0px;
+  width: 25px;
+  height: 25px;
+  display: flex;
+  position: absolute;
+  box-sizing: border-box;
+  align-items: flex-start;
+  border-color: rgba(32, 144, 248, 1);
+  border-style: solid;
+  border-width: 2px;
+  border-radius: 5px;
+  background-color: var(--dl-color-default-primary68bff);
+}
+.form-daftar-agen-pos-perseorangan51448-bicheck123457 {
+  top: 8px;
+  left: 6px;
+  width: 12px;
+  height: 9px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  box-sizing: border-box;
+  align-items: flex-start;
+  border-color: transparent;
+}
+.form-daftar-agen-pos-perseorangan51448-image6 {
+  top: 0.49910616874694824px;
+  left: 0.49936842918395996px;
+  width: 12px;
+  height: 8px;
+  position: absolute;
+  object-fit: cover;
+  border-color: transparent;
+}
+.form-daftar-agen-pos-perseorangan51448-text44 {
+  top: 5.47265625px;
+  left: 39px;
+  color: var(--dl-color-default-text70d26);
+  height: auto;
+  position: absolute;
+  font-size: 15px;
+  align-self: auto;
+  font-style: normal;
+  text-align: left;
+  font-family: Roboto;
+  font-weight: 500px;
+  line-height: 16px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.form-daftar-agen-pos-perseorangan51448-text45 {
+  color: rgba(37, 43, 66, 1);
+  height: auto;
+  align-self: auto;
+  font-style: normal;
+  text-align: left;
+  font-weight: 500px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.form-daftar-agen-pos-perseorangan51448-lefticonbutton123411 {
+  top: 45.47265625px;
+  left: 725px;
+  width: 163px;
+  height: 60px;
+  display: flex;
+  padding: 16px 30px;
+  overflow: hidden;
+  position: absolute;
+  box-sizing: border-box;
+  align-items: center;
+  border-color: transparent;
+  border-radius: 10px;
+  background-color: var(--dl-color-default-primary02878);
+}
+.form-daftar-agen-pos-perseorangan51448-text46 {
+  color: var(--dl-color-default-lighttext82584);
+  height: auto;
+  align-self: auto;
+  text-align: left;
+  line-height: 28px;
+  text-decoration: none;
+}
+.form-daftar-agen-pos-perseorangan51448-text47 {
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  align-self: auto;
+  font-style: normal;
+  text-align: left;
+  font-weight: 700px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.form-daftar-agen-pos-perseorangan51448-image7 {
+  top: 18px;
+  left: 123px;
+  width: 24px;
+  height: 24px;
+  position: absolute;
+  object-fit: cover;
+  border-color: transparent;
+}
+.form-daftar-agen-pos-perseorangan51448-lefticonbutton123415 {
+  top: 45px;
+  left: 0px;
+  width: 163px;
+  height: 60px;
+  display: flex;
+  padding: 16px 30px;
+  overflow: hidden;
+  position: absolute;
+  box-sizing: border-box;
+  align-items: center;
+  border-color: transparent;
+  border-radius: 10px;
+  background-color: var(--dl-color-default-primary02878);
+}
+.form-daftar-agen-pos-perseorangan51448-text48 {
+  color: var(--dl-color-default-lighttext82584);
+  height: auto;
+  align-self: auto;
+  text-align: left;
+  line-height: 28px;
+  text-decoration: none;
+}
+.form-daftar-agen-pos-perseorangan51448-text49 {
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  align-self: auto;
+  font-style: normal;
+  text-align: left;
+  font-weight: 700px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.form-daftar-agen-pos-perseorangan51448-image8 {
+  top: 12px;
+  left: 117px;
+  width: 36px;
+  height: 36px;
+  position: absolute;
+  object-fit: cover;
+  border-color: transparent;
+}

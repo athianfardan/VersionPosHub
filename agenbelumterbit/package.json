@@ -1,0 +1,10 @@
+{
+  "name": "figmaexport-a-pos-web-list_agen_pos_id_agen_belum_terbit",
+  "version": "1.0.0",
+  "private": true,
+  "dependencies": {
+    "parcel-bundler": "^1.6.1"
+  },
+  "scripts": {},
+  "devDependencies": {}
+}

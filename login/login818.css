@@ -1,0 +1,488 @@
+.login818-container {
+  min-height: 100vh;
+}
+.login818-login818 {
+  width: 1440px;
+  height: 932px;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  max-width: 1440px;
+  align-self: stretch;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+}
+.login818-content819 {
+  top: 0px;
+  left: 0px;
+  width: 1440px;
+  height: 932px;
+  display: flex;
+  padding: 35px 0;
+  overflow: hidden;
+  position: absolute;
+  align-self: stretch;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  background-color: rgba(255, 255, 255, 1);
+}
+.login818-image {
+  top: 259px;
+  left: 0px;
+  width: 706px;
+  height: 673px;
+  position: absolute;
+  object-fit: cover;
+  border-color: transparent;
+}
+.login818-frame2822 {
+  top: 0px;
+  left: 0px;
+  width: 1440px;
+  height: 932px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  box-sizing: border-box;
+  align-items: flex-start;
+  border-color: transparent;
+  background-color: rgba(241, 241, 241, 1);
+}
+.login818-formstyle3823 {
+  top: 101px;
+  left: 720px;
+  width: 720px;
+  height: 734px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  box-sizing: border-box;
+  align-items: flex-start;
+  border-color: transparent;
+}
+.login818-h3824 {
+  top: 46px;
+  left: 291px;
+  width: 139px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  box-sizing: border-box;
+  align-items: center;
+  flex-shrink: 1;
+  border-color: transparent;
+}
+.login818-text {
+  color: var(--dl-color-default-secondarya14f0);
+  height: auto;
+  align-self: auto;
+  text-align: left;
+  line-height: 57px;
+  text-decoration: none;
+}
+.login818-text01 {
+  color: rgba(231, 119, 23, 1);
+  height: auto;
+  align-self: auto;
+  font-style: normal;
+  text-align: left;
+  font-weight: 700px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.login818-text-paragraphe837 {
+  top: 122px;
+  left: 153px;
+  width: 414px;
+  height: 76px;
+  display: flex;
+  padding: 10px;
+  overflow: hidden;
+  position: absolute;
+  box-sizing: border-box;
+  align-items: center;
+  flex-shrink: 1;
+  border-color: transparent;
+  justify-content: center;
+}
+.login818-text02 {
+  top: 10px;
+  left: 10px;
+  color: var(--dl-color-default-text7e343);
+  height: auto;
+  position: absolute;
+  align-self: auto;
+  text-align: center;
+  line-height: 28px;
+  text-decoration: none;
+}
+.login818-text03 {
+  color: rgba(37, 43, 66, 1);
+  height: auto;
+  align-self: auto;
+  font-style: normal;
+  text-align: center;
+  font-weight: 500px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.login818-input830 {
+  top: 226px;
+  left: 163px;
+  width: 394px;
+  height: 54px;
+  display: flex;
+  padding: 19px 25px;
+  overflow: hidden;
+  position: absolute;
+  font-size: 15px;
+  box-sizing: border-box;
+  text-align: left;
+  align-items: flex-start;
+  font-family: Roboto;
+  font-weight: 500;
+  border-color: rgba(231, 119, 23, 1);
+  border-style: solid;
+  border-width: 2px;
+  border-radius: 10px;
+  background-color: rgba(255, 255, 255, 1);
+}
+.login818-input9198 {
+  top: 303px;
+  left: 163px;
+  width: 394px;
+  height: 54px;
+  display: flex;
+  padding: 19px 25px;
+  overflow: hidden;
+  position: absolute;
+  box-sizing: border-box;
+  align-items: flex-start;
+  border-color: rgba(231, 119, 23, 1);
+  border-style: solid;
+  border-width: 2px;
+  border-radius: 10px;
+  background-color: rgba(255, 255, 255, 1);
+}
+.login818-text07 {
+  top: 21px;
+  left: 25px;
+  color: rgba(176, 176, 176, 1);
+  height: auto;
+  position: absolute;
+  font-size: 15px;
+  align-self: auto;
+  font-style: normal;
+  text-align: left;
+  font-family: Roboto;
+  font-weight: 500px;
+  line-height: 16px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.login818-text08 {
+  color: rgba(176, 176, 176, 1);
+  height: auto;
+  align-self: auto;
+  font-style: normal;
+  text-align: left;
+  font-weight: 500px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.login818-akariconseye9194 {
+  top: 13px;
+  left: 347px;
+  width: 28px;
+  height: 28px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  box-sizing: border-box;
+  align-items: flex-start;
+  border-color: transparent;
+}
+.login818-image1 {
+  top: 5.8333330154418945px;
+  left: 2.785062313079834px;
+  width: 22px;
+  height: 16px;
+  position: absolute;
+  object-fit: cover;
+  border-color: transparent;
+}
+.login818-masterbutton10147 {
+  top: 421px;
+  left: 255px;
+  width: 210px;
+  height: 64px;
+  display: flex;
+  padding: 18px 121px;
+  overflow: hidden;
+  position: absolute;
+  box-sizing: border-box;
+  align-items: center;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-radius: 10px;
+  flex-direction: row;
+  background-color: var(--dl-color-default-secondarya14f0);
+}
+.login818-text09 {
+  top: 18px;
+  left: 96px;
+  color: var(--dl-color-default-lighttext82584);
+  height: auto;
+  margin: auto;
+  position: absolute;
+  align-self: flex-end;
+  text-align: center;
+  line-height: 28px;
+  text-decoration: none;
+}
+.login818-text10 {
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  font-style: normal;
+  text-align: left;
+  font-weight: 700px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.login818-masterbutton10150 {
+  top: 553px;
+  left: 255px;
+  width: 210px;
+  height: 64px;
+  display: flex;
+  padding: 18px 121px;
+  overflow: hidden;
+  position: absolute;
+  box-sizing: border-box;
+  align-items: center;
+  border-color: transparent;
+  border-radius: 10px;
+  flex-direction: column;
+  background-color: var(--dl-color-default-secondarya14f0);
+}
+.login818-text11 {
+  top: 19px;
+  left: 100px;
+  color: var(--dl-color-default-lighttext82584);
+  height: auto;
+  margin: auto;
+  position: absolute;
+  align-self: auto;
+  text-align: left;
+  line-height: 28px;
+  text-decoration: none;
+}
+.login818-text12 {
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  align-self: auto;
+  font-style: normal;
+  text-align: left;
+  font-weight: 700px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.login818-group6559200 {
+  top: 505px;
+  left: 340px;
+  width: 41px;
+  height: 28px;
+  display: flex;
+  position: absolute;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+}
+.login818-text13 {
+  top: 0px;
+  left: 0px;
+  color: var(--dl-color-default-text7e343);
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  align-self: auto;
+  font-style: normal;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 700px;
+  line-height: 28px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.login818-text14 {
+  color: rgba(37, 43, 66, 1);
+  height: auto;
+  align-self: auto;
+  font-style: normal;
+  text-align: left;
+  font-weight: 700px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.login818-group653856 {
+  top: 368px;
+  left: 163px;
+  width: 169px;
+  height: 28px;
+  display: flex;
+  position: absolute;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+}
+.login818-frame30857 {
+  top: 2px;
+  left: 0px;
+  width: 25px;
+  height: 25px;
+  display: flex;
+  position: absolute;
+  box-sizing: border-box;
+  align-items: flex-start;
+  border-color: rgba(32, 144, 248, 1);
+  border-style: solid;
+  border-width: 2px;
+  border-radius: 5px;
+  background-color: var(--dl-color-default-primary68bff);
+}
+.login818-bicheck858 {
+  top: 8px;
+  left: 6px;
+  width: 12px;
+  height: 9px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  box-sizing: border-box;
+  align-items: flex-start;
+  border-color: transparent;
+}
+.login818-image2 {
+  top: 0.49910616874694824px;
+  left: 0.49936842918395996px;
+  width: 12px;
+  height: 8px;
+  position: absolute;
+  object-fit: cover;
+  border-color: transparent;
+}
+.login818-group1861 {
+  top: 0px;
+  left: 44px;
+  width: 125px;
+  height: 28px;
+  display: flex;
+  position: absolute;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+}
+.login818-text15 {
+  top: 0px;
+  left: 0px;
+  color: rgba(129, 129, 129, 1);
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  align-self: auto;
+  font-style: normal;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 700px;
+  line-height: 28px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.login818-text16 {
+  color: rgba(129, 129, 129, 1);
+  height: auto;
+  align-self: auto;
+  font-style: normal;
+  text-align: left;
+  font-weight: 700px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.login818-image-page9186 {
+  top: 101px;
+  left: 0px;
+  width: 720px;
+  height: 734px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  box-sizing: border-box;
+  align-items: flex-start;
+  border-color: transparent;
+}
+.login818-group6549189 {
+  top: 52px;
+  left: 177px;
+  width: 365px;
+  height: 365px;
+  display: flex;
+  position: absolute;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+}
+.login818-image3 {
+  top: 0px;
+  left: 0px;
+  width: 365px;
+  height: 365px;
+  position: absolute;
+  object-fit: cover;
+  border-color: transparent;
+  border-radius: 250px;
+}
+.login818-image4 {
+  top: 669px;
+  left: 164px;
+  width: 393px;
+  height: 65px;
+  position: absolute;
+  object-fit: cover;
+  border-color: transparent;
+}
+.login818-text17 {
+  top: 417px;
+  left: 128px;
+  color: var(--dl-color-default-primary02878);
+  height: auto;
+  position: absolute;
+  font-size: 64px;
+  align-self: auto;
+  box-shadow: 10px 10px 5px 0px rgba(0, 0, 0, 0.25) ;
+  font-style: normal;
+  text-align: center;
+  font-family: MuseoModerno;
+  font-weight: 400px;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.login818-text18 {
+  color: rgba(231, 119, 23, 1);
+  height: auto;
+  align-self: auto;
+  box-shadow: 10px 10px 5px 0px rgba(0, 0, 0, 0.25) ;
+  font-style: normal;
+  text-align: center;
+  font-weight: 400px;
+  font-stretch: normal;
+  text-decoration: none;
+}
